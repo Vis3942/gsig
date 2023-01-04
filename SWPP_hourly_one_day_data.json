@@ -1,0 +1,422 @@
+{
+    "response": {
+        "total": 56,
+        "dateFormat": "YYYY-MM-DD\"T\"HH24",
+        "frequency": "hourly",
+        "data": [
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T00",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T01",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T02",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T03",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T04",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T05",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "COL",
+                "type-name": "Coal"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NG",
+                "type-name": "Natural gas"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "SUN",
+                "type-name": "Solar"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WAT",
+                "type-name": "Hydro"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "NUC",
+                "type-name": "Nuclear"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "WND",
+                "type-name": "Wind"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OTH",
+                "type-name": "Other"
+            },
+            {
+                "period": "2022-12-21T06",
+                "respondent": "SWPP",
+                "respondent-name": "Southwest Power Pool",
+                "fueltype": "OIL",
+                "type-name": "Petroleum"
+            }
+        ],
+        "description": "Hourly net generation by balancing authority and energy source.  \n    Source: Form EIA-930\n    Product: Hourly Electric Grid Monitor"
+    },
+    "request": {
+        "command": "/v2/electricity/rto/fuel-type-data/data/",
+        "params": {
+            "api_key": "1e5e14ac05bfda21affef0ea92a26702",
+            "frequency": "hourly",
+            "facets": {
+                "respondent": [
+                    "SWPP"
+                ]
+            },
+            "start": "2022-12-21",
+            "end": "2022-12-22"
+        }
+    },
+    "apiVersion": "2.1.0"
+}
+
+https://api.eia.gov/v2/electricity/rto/fuel-type-data/data?api_key=1e5e14ac05bfda21affef0ea92a26702&frequency=hourly&facets[respondent][]=SWPP&start=2022-12-21&end=2022-12-22
+
+data is stored in the structure
+resp.json()['response']['data']

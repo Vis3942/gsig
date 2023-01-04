@@ -1,0 +1,1635 @@
+,db_name,pyiso_name,eia_name
+0,City of Aberdeen - (MS),TVA,TVA
+1,City of Abbeville - (LA),PJM,PJM
+2,A & N Electric Coop,PJM,PJM
+3,Adams Electric Coop,MISO,MISO
+4,Adams-Columbia Electric Coop,MISO,MISO
+5,"Adams Rural Electric Coop, Inc",pjm,PJM
+6,Village of Arcade - (NY),NYISO,NYIS
+7,City of Adel- (GA),SOCO,SOCO
+8,Adrian Public Utilities Comm,MISO,MISO
+9,Agralite Electric Coop,MISO,MISO
+10,Aiken Electric Coop Inc,NOT_AVAIL,SCEG
+11,City of Alachua - (FL),SEC,SEC
+12,City of Alameda,CAISO,CISO
+13,"Alaska Village Elec Coop, Inc",NOT_AVAIL,NOT_AVAIL
+14,Albany Utility Board,SOCO,SOCO
+15,City of Albemarle - (NC),CPLE,CPLE
+16,Albemarle Electric Member Corp,PJM,PJM
+17,Albertville Municipal Utilities Board,TVA,TVA
+18,Alcorn County Elec Power Assn,TVA,TVA
+19,City of Alexander City,SOCO,SOCO
+20,City of Alexandria - (MN),MISO,MISO
+21,"Alfalfa Electric Coop, Inc",SPP,SWPP
+22,City of Alexandria - (LA),MISO,MISO
+23,Alger-Delta Coop Electric Assn,MISO,MISO
+24,Algoma Utility Comm,MISO,MISO
+25,City of Acworth - (GA),SOCO,SOCO
+26,City of Algona - (IA),MISO,MISO
+27,"Allamakee-Clayton El Coop, Inc",MISO,MISO
+28,City of Alliance- (NE),SPP,SWPP
+29,Altamaha Electric Member Corp,SOCO,SOCO
+30,City of Altus - (OK),SPP,SWPP
+31,City of Ames - (IA),MISO,MISO
+32,City of Amherst- (OH),PJM,PJM
+33,Amicalola Electric Member Corp,TVA,TVA
+34,City of Amory,TVA,TVA
+35,City of Alcoa Utilities,TVA,TVA
+36,City of Anaheim - (CA),CAISO,CISO
+37,Anchorage Municipal Light and Power,NOT_AVAIL,NOT_AVAIL
+38,City of Andalusia,SOCO,SOCO
+39,City of Anderson - (IN),PJM,PJM
+40,Connexus Energy,MISO,MISO
+41,City of Bardstown - (KY),PJM,PJM
+42,City of Anoka,MISO,MISO
+43,Anza Electric Coop Inc,CAISO,CISO
+44,Town of Apex- (NC),CPLE,CPLE
+45,Appalachian Electric Coop,TVA,TVA
+46,Arab Electric Coop Inc,TVA,TVA
+47,Arkansas Valley Elec Coop Corp,SPP,SWPP
+48,City of Arlington - (MN),MISO,MISO
+49,"Arrowhead Electric Coop, Inc",MISO,MISO
+50,City of Ashland - (OR),PACW,PACW
+51,City of Aspen- (CO),PSCO,PSCO
+52,Atchison-Holt Electric Coop,MISO,MISO
+53,City of Athens - (AL),TVA,TVA
+54,Athens Utility Board,TVA,TVA
+55,Atlantic Municipal Utilities,MISO,MISO
+56,Auburn Board of Public Works,SPP,SWPP
+57,City of Auburn - (IN),PJM,PJM
+58,City of Augusta - (KS),SPP,SWPP
+59,City of Austin - (MN),MISO,MISO
+60,Austin Energy,Ercot,ERCO
+61,City of Ava - (MO),AECI,AECI
+62,Town of Ayden - (NC),PJM,PJM
+63,City of Azusa,CAISO,CISO
+64,BARC Electric Coop Inc,PJM,PJM
+65,Bagley Public Utilities Comm,MISO,MISO
+66,City of Baldwin City- (KS),SPP,SWPP
+67,Baldwin County El Member Corp,SOCO,SOCO
+68,Bailey County Elec Coop Assn,SPP,SWPP
+69,"Bandera Electric Coop, Inc",Ercot,ERCO
+70,City of Bandon - (OR),PACW,PACW
+71,Village of Bangor - (WI),MISO,MISO
+72,City of Banning - (CA),CAISO,CISO
+73,Village of Baraga - (MI),MISO,MISO
+74,Barbourville Utility Comm,LGEE,LGEE
+75,City of Barnesville - (MN),MISO,MISO
+76,Barron Electric Coop,MISO,MISO
+77,"Bartlett Electric Coop, Inc",MISO,MISO
+78,"Barrow Utils & Elec Coop, Inc",NOT_AVAIL,NOT_AVAIL
+79,Barry Electric Coop,SPP,SWPP
+80,Bartholomew County Rural E M C,MISO,MISO
+81,City of Bartow - (FL),FPC,FPC
+82,"Barton County Elec Coop, Inc",SPP,SWPP
+83,City of Batavia - (IL),PJM,PJM
+84,City of Bay City - (MI),MISO,MISO
+85,"Bayfield Electric Coop, Inc",MISO,MISO
+86,"Beartooth Electric Coop, Inc",NWMT,NWMT
+87,City of Beatrice - (NE),SPP,SWPP
+88,Town of Bedford - (VA),PJM,PJM
+89,"Beauregard Electric Coop, Inc",MISO,MISO
+90,Town of Belmont - (MA),ISONE,ISNE
+91,City of Beloit - (KS),SPP,SWPP
+92,"Beltrami Electric Coop, Inc",MISO,MISO
+93,City of Bennettsville - (SC),SC,SC
+94,City of Benson - (MN),MISO,MISO
+95,Benton County,TVA,TVA
+96,PUD No 1 of Benton County,GCPD,GCPD
+97,City of Benton - (AR),MISO,MISO
+98,City of Benton - (KY),MISO,MISO
+99,City of Bentonville - (AR),SPP,SWPP
+100,"Big Country Electric Coop, Inc",Ercot,ERCO
+101,City of Beresford,MISO,MISO
+102,Berkeley Electric Coop Inc,SC,SC
+103,Benton Rural Electric Assn,BPA,BPAT
+104,City of Bessemer Utilities,SOCO,SOCO
+105,Big Horn Rural Electric Co,PACE,PACE
+106,"Big Horn County Elec Coop, Inc",NWMT,NWMT
+107,Big Sandy Rural Elec Coop Corp,PJM,PJM
+108,"Big Bend Electric Coop, Inc",BPA,BPAT
+109,Blachly-Lane County Coop El Assn,NOT_AVAIL,NOT_AVAIL
+110,"Black River Electric Coop, Inc - (SC)",SC,SC
+111,"Black Hills Electric Coop, Inc",SPP,SWPP
+112,Black River Electric Coop - (MO),AECI,AECI
+113,City of Black River Falls,MISO,MISO
+114,Black Warrior Elec Member Corp,SOCO,SOCO
+115,City of Blaine - (WA),PSEI,PSEI
+116,City of Bloomfield - (IA),MISO,MISO
+117,Blue Earth Light & Water,MISO,MISO
+118,BENCO Electric Cooperative,MISO,MISO
+119,Blue Grass Energy Coop Corp,PJM,PJM
+120,Blue Ridge Elec Member Corp - (NC),DUK,DUK
+121,Blue Ridge Electric Coop Inc - (SC),DUK,DUK
+122,Blue Ridge Mountain EMC - (GA),TVA,TVA
+123,"Bluebonnet Electric Coop, Inc",Ercot,ERCO
+124,City of Bluffton - (IN),PJM,PJM
+125,"Bon Homme Yankton El Assn, Inc",SPP,SWPP
+126,City of Boerne,Ercot,ERCO
+127,Bolivar Energy Authority,TVA,TVA
+128,City of Boscobel - (WI),MISO,MISO
+129,Boone Electric Coop,MISO,MISO
+130,City of Boulder City - (NV),NEVP,NEVP
+131,City of Bountiful,PACE,PACE
+132,"Bowie-Cass Electric Coop, Inc",SPP,SWPP
+133,City of Bowling Green - (OH),PJM,PJM
+134,City of Bowling Green - (KY),TVA,TVA
+135,Bozrah Light & Power Company,ISONE,ISNE
+136,Brainerd Public Utilities,MISO,MISO
+137,Town of Braintree - (MA),ISONE,ISNE
+138,City of Breckenridge- (MN),MISO,MISO
+139,Bremen Electric Light & Power Co,MISO,MISO
+140,City of Brenham - (TX),Ercot,ERCO
+141,City of Brewster - (MN),MISO,MISO
+142,"Broad River Electric Coop, Inc",DUK,DUK
+143,"Bridger Valley Elec Assn, Inc",PACE,PACE
+144,Brigham City Corporation,PACE,PACE
+145,City of Bristol - (TN),TVA,TVA
+146,Bristol Virginia Utilities,PJM,PJM
+147,Brodhead Water & Lighting Comm,MISO,MISO
+148,City of Broken Bow - (NE),SPP,SWPP
+149,City of Brookings - (SD),MISO,MISO
+150,Brown County Rural Elec Assn,MISO,MISO
+151,Brown-Atchison E C A Inc,SPP,SWPP
+152,Burke-Divide Electric Coop Inc,MISO,MISO
+153,Brownsville Public Utilities Board,Ercot,ERCO
+154,City of Brownsville,TVA,TVA
+155,City of Bryan - (OH),PJM,PJM
+156,City of Bryan - (TX),MISO,MISO
+157,City of Buffalo - (MN),MISO,MISO
+158,City of Buford,SOCO,SOCO
+159,"Buckeye Rural Elec Coop, Inc",PJM,PJM
+160,City of Burbank Water and Power,LDWP,LDWP
+161,City of Burley - (ID),IPCO,IPCO
+162,City of Burlington Electric - (VT),ISONE,ISNE
+163,City of Burlington - (KS),SPP,SWPP
+164,Burt County Public Power Dist,SPP,SWPP
+165,"Butler Rural El Coop Assn, Inc - (KS)",SPP,SWPP
+166,Butler Public Power District - (NE),SPP,SWPP
+167,Borough of Butler - (NJ),PJM,PJM
+168,Butler Rural Electric Coop Inc - (OH),PJM,PJM
+169,Butler County Rural Elec Coop - (IA),MISO,MISO
+170,"Butte Electric Coop, Inc",MISO,MISO
+171,C & L Electric Coop Corp,MISO,MISO
+172,City of Cairo - (GA),SOCO,SOCO
+173,CMS Electric Coop Inc,SPP,SWPP
+174,City of Calhoun - (GA),TVA,TVA
+175,Central Electric Power Assn - (MS),TVA,TVA
+176,City of Cambridge - (NE),SPP,SWPP
+177,City of Camden,CPLE,CPLE
+178,City of Cameron,AECI,AECI
+179,Canoochee Electric Member Corp,SOCO,SOCO
+180,City of Camilla,SOCO,SOCO
+181,"Canadian Valley Elec Coop, Inc",SPP,SWPP
+182,Canby Utility Board,PGE,PGE
+183,"Caney Fork Electric Coop, Inc",TVA,TVA
+184,"Caney Valley El Coop Assn, Inc",SPP,SWPP
+185,Canton Municipal Utilities,MISO,MISO
+186,Cape Hatteras Elec Member Corp,PJM,PJM
+187,"Capital Electric Coop, Inc",SPP,SWPP
+188,"Cam Wal Electric Coop, Inc",MISO,MISO
+189,"Carbon Power & Light, Inc",WACM,WACM
+190,Carroll County - (TN),TVA,TVA
+191,"Carroll Electric Coop, Inc - (OH)",PJM,PJM
+192,Carroll Electric Member Corp - (GA),SOCO,SOCO
+193,Carroll Electric Coop Corp - (AR),SPP,SWPP
+194,Carteret-Craven El Member Corp,CPLE,CPLE
+195,City of Cartersville - (GA),SOCO,SOCO
+196,City of Carthage - (MO),SPP,SWPP
+197,Cedar Falls Utilities,MISO,MISO
+198,Cedar-Knox Public Power Dist,SPP,SWPP
+199,Cedarburg Light & Water Comm,MISO,MISO
+200,City of Celina - (OH),PJM,PJM
+201,Central Alabama Electric Coop,SOCO,SOCO
+202,"Central Rural Electric Cooperative, Inc",SPP,SWPP
+203,City of Central City,SPP,SWPP
+204,"Central Electric Coop, Inc - (SD)",SPP,SWPP
+205,Central Electric Coop Inc - (OR),PACW,PACW
+206,"Central Florida Elec Coop, Inc",SEC,SEC
+207,Central Georgia El Member Corp,SOCO,SOCO
+208,Central Electric Membership Corp. - (NC),CPLE,CPLE
+209,Central Lincoln People's Ut Dt,BPA,BPAT
+210,Central Missouri Elec Coop Inc,SPP,SWPP
+211,"Central New Mexico El Coop, Inc",PNM,PNM
+212,"Central Texas Elec Coop, Inc",Ercot,ERCO
+213,"Central Valley Elec Coop, Inc",SPP,SWPP
+214,Central Virginia Electric Coop,PJM,PJM
+215,Central Wisconsin Elec Coop,MISO,MISO
+216,City of Centralia - (WA),BPA,BPAT
+217,"Chariton Valley Elec Coop, Inc",NOT_AVAIL,NOT_AVAIL
+218,"Charles Mix Electric Assn, Inc",SPP,SWPP
+219,Borough of Chambersburg,PJM,PJM
+220,City of Chanute,SPP,SWPP
+221,City of Chaska - (MN),MISO,MISO
+222,City of Chattanooga - (TN),TVA,TVA
+223,PUD No 1 of Chelan County,CHPD,CHPD
+224,City of Cheney - (WA),AVA,AVA
+225,Cherokee Electric Coop,TVA,TVA
+226,"Cherry-Todd Electric Coop, Inc",SPP,SWPP
+227,Cherryland Electric Coop Inc,MISO,MISO
+228,Cherokee County Elec Coop Assn,SPP,SWPP
+229,City of Chickamauga,TVA,TVA
+230,City of Chicopee - (MA),ISONE,ISNE
+231,Cimarron Electric Coop,SPP,SWPP
+232,Chillicothe Municipal Utils,AECI,AECI
+233,Chimney Rock Public Power Dist,SPP,SWPP
+234,Chippewa Valley Electric Coop,MISO,MISO
+235,"Choctawhatche Elec Coop, Inc",SOCO,SOCO
+236,"Choptank Electric Coop, Inc",PJM,PJM
+237,Chugach Electric Assn Inc,NOT_AVAIL,NOT_AVAIL
+238,Choctaw Electric Coop Inc,SPP,SWPP
+239,Citizens Electric Corporation - (MO),AECI,AECI
+240,City of Nixa - (MO),SPP,SWPP
+241,"Claiborne Electric Coop, Inc",MISO,MISO
+242,PUD No 1 of Clallam County,BPA,BPAT
+243,City of Claremore,SPP,SWPP
+244,PUD No 1 of Clark County - (WA),BPA,BPAT
+245,Clark Energy Coop Inc - (KY),PJM,PJM
+246,Clark Electric Coop - (WI),MISO,MISO
+247,Clarksdale Public Utilities,MISO,MISO
+248,City of Clarksville - (TN),TVA,TVA
+249,Clarksville Light & Water Co,SPA,SPA
+250,City of Clay Center - (KS),SPP,SWPP
+251,Clay County Electric Coop Corp,SPA,SPA
+252,Clay-Union Electric Corp,SPP,SWPP
+253,Clarke Electric Coop Inc - (IA),MISO,MISO
+254,Town of Clayton,CPLE,CPLE
+255,Clearwater Power Company,AVA,AVA
+256,"Clay Electric Cooperative, Inc",SEC,SEC
+257,City of Cleveland - (TN),TVA,TVA
+258,City of Cleveland - (OH),PJM,PJM
+259,Clearwater-Polk Elec Coop Inc,MISO,MISO
+260,City of Clewiston,SEC,SEC
+261,Clinton Combined Utility Sys,DUK,DUK
+262,"Clinton County Elec Coop, Inc",MISO,MISO
+263,City of Clinton - (TN),TVA,TVA
+264,City of Clintonville - (WI),MISO,MISO
+265,Clyde Light & Power,PJM,PJM
+266,Cloverland Electric Co-op,MISO,MISO
+267,Coahoma Electric Power Assn,MISO,MISO
+268,Coast Electric Power Assn,MISO,MISO
+269,Coastal Electric Member Corp,SOCO,SOCO
+270,"Coastal Electric Coop, Inc",NOT_AVAIL,SCEG
+271,"Codington-Clark Elec Coop, Inc",MISO,MISO
+272,Columbia Power System,TVA,TVA
+273,City of Cody,PACE,PACE
+274,City of Coffeyville - (KS),SPP,SWPP
+275,City of Colby - (KS),SPP,SWPP
+276,Coldwater Board of Public Util,MISO,MISO
+277,Cobb Electric Membership Corp,SOCO,SOCO
+278,Coles-Moultrie Electric Coop,MISO,MISO
+279,"Coleman County Elec Coop, Inc",Ercot,ERCO
+280,City of College Park - (GA),soco,SOCO
+281,City of College Station - (TX),MISO,MISO
+282,City of Colorado Springs - (CO),WACM,WACM
+283,City of Colton - (CA),CAISO,CISO
+284,"Columbia Basin Elec Cooperative, Inc",BPA,BPAT
+285,City of Columbia City - (IN),PJM,PJM
+286,Columbia Power Coop Assn Inc,BPA,BPAT
+287,Calhoun County Elec Coop Assn,MISO,MISO
+288,"Columbia Rural Elec Assn, Inc",PACW,PACW
+289,City of Columbia - (MO),MISO,MISO
+290,Co-Mo Electric Coop Inc,MISO,MISO
+291,City of Columbus - (OH),PJM,PJM
+292,City of Columbus - (MS),TVA,TVA
+293,"Columbus Electric Coop, Inc",ELE,EPE
+294,City of Columbus - (WI),MISO,MISO
+295,Community Electric Coop,PJM,PJM
+296,Concho Valley Elec Coop Inc,Ercot,ERCO
+297,Town of Concord - (MA),ISONE,ISNE
+298,City of Concord - (NC),DUK,DUK
+299,"Concordia Electric Coop, Inc",MISO,MISO
+300,Callaway Electric Cooperative,MISO,MISO
+301,Consolidated Electric Coop,MISO,MISO
+302,Cooke County Elec Coop Assn,Ercot,ERCO
+303,Continental Divide El Coop Inc,PNM,PNM
+304,Conway Corporation,MISO,MISO
+305,City of Cookeville - (TN),TVA,TVA
+306,Comanche County Elec Coop Assn,Ercot,ERCO
+307,"Cookson Hills Elec Coop, Inc",SPP,SWPP
+308,"Coos-Curry Electric Coop, Inc",BPA,BPAT
+309,Coosa Valley Electric Coop Inc,SOCO,SOCO
+310,"Copper Valley Elec Assn, Inc",NOT_AVAIL,NOT_AVAIL
+311,Cooperative L&P Assn Lake County,MISO,MISO
+312,Corn Belt Energy Corporation,MISO,MISO
+313,Cornhusker Public Power Dist,SPP,SWPP
+314,City of Corona - (CA),CAISO,CISO
+315,"Cotton Electric Coop, Inc",SPP,SWPP
+316,"Covington Electric Coop, Inc",SOCO,SOCO
+317,Coweta-Fayette El Member Corp,SOCO,SOCO
+318,City of Covington - (GA),SOCO,SOCO
+319,City of Covington - (TN),TVA,TVA
+320,PUD No 1 of Cowlitz County,BPA,BPAT
+321,Cozad Board of Public Works,SPP,SWPP
+322,Craig-Botetourt Electric Coop,PJM,PJM
+323,"Crawfordsville Elec, Lgt & Pwr",MISO,MISO
+324,Craighead Electric Coop Corp,MISO,MISO
+325,"Crawford Electric Coop, Inc",MISO,MISO
+326,City of Crete,SPP,SWPP
+327,Crisp County Power Comm,SOCO,SOCO
+328,Crow Wing Cooperative Power & Light Comp,MISO,MISO
+329,City of Crystal Falls,MISO,MISO
+330,City of Cuba City,MISO,MISO
+331,City of Cuero - (TX),Ercot,ERCO
+332,Cullman Power Board,TVA,TVA
+333,"Cullman Electric Coop, Inc",TVA,TVA
+334,Town of Culpeper- (VA),PJM,PJM
+335,"Cumberland Valley Electric, Inc.",PJM,PJM
+336,Cumberland Elec Member Corp,TVA,TVA
+337,Cuming County Public Pwr Dist,SPP,SWPP
+338,City of Cushing - (OK),SPP,SWPP
+339,Custer Public Power District,SPP,SWPP
+340,Cuivre River Electric Coop Inc,MISO,MISO
+341,City of Cuyahoga Falls - (OH),PJM,PJM
+342,"DS&O Electric Cooperative, Inc.",SPP,SWPP
+343,Dakota Valley Elec Coop Inc,SPP,SWPP
+344,Dakota Energy Coop Inc,SPP,SWPP
+345,"Consumers Power, Inc",BPA,BPAT
+346,Dalton Utilities,TVA,TVA
+347,City of Danville - (VA),PJM,PJM
+348,"Darke Rural Electric Coop, Inc",PJM,PJM
+349,City of David City,SPP,SWPP
+350,Daviess Martin County R E M C,MISO,MISO
+351,Dawson Power District,SPP,SWPP
+352,City of Dayton - (TN),TVA,TVA
+353,"Deaf Smith Electric Coop, Inc",SPP,SWPP
+354,Decatur Utilities,TVA,TVA
+355,Decatur County Rural E M C,MISO,MISO
+356,Deep East Texas Elec Coop Inc,SPP,SWPP
+357,Delano Municipal Utilities,MISO,MISO
+358,City of Denison - (IA),MISO,MISO
+359,City of Denton - (TX),Ercot,ERCO
+360,Delaware Electric Cooperative,pjm,PJM
+361,"Denton County Elec Coop, Inc",Ercot,ERCO
+362,Delta Montrose Electric Assn,WACM,WACM
+363,City of Detroit Lakes - (MN),MISO,MISO
+364,City of Dickson,TVA,TVA
+365,Dixie Electric Power Assn,MISO,MISO
+366,Dixie Electric Membership Corp,MISO,MISO
+367,Dixie Electric Coop,SOCO,SOCO
+368,City of Dothan - (AL),SOCO,SOCO
+369,City of Douglas,SOCO,SOCO
+370,PUD No 1 of Douglas County,CHPD,CHPD
+371,Douglas Electric Coop - (OR),BPA,BPAT
+372,"Douglas Electric Coop, Inc",SPP,SWPP
+373,City of Dover - (DE),PJM,PJM
+374,City of Dover - (OH),PJM,PJM
+375,Dubois Rural Electric Coop Inc,MISO,MISO
+376,Duck River Elec Member Corp,TVA,TVA
+377,Dunn County Electric Coop,MISO,MISO
+378,City of Duncan - (OK),SPP,SWPP
+379,Town of Danvers,ISONE,ISNE
+380,City of Dyersburg,TVA,TVA
+381,Egyptian Electric Coop Assn,MISO,MISO
+382,City of Eagle River - (WI),MISO,MISO
+383,East Central Energy,MISO,MISO
+384,City of East Grand Forks - (MN),MISO,MISO
+385,East Mississippi Elec Pwr Assn,MISO,MISO
+386,City of East Point - (GA),SOCO,SOCO
+387,Eastern Illinois Elec Coop,MISO,MISO
+388,East-Central Iowa Rural Elec Coop,MISO,MISO
+389,East Central Oklahoma Elec Coop Inc,SPP,SWPP
+390,Eastern Iowa Light & Power Coop,MISO,MISO
+391,Eastern Maine Electric Coop,NOT_AVAIL,NOT_AVAIL
+392,Easton Utilities Comm,PJM,PJM
+393,Eau Claire Electric Coop,MISO,MISO
+394,"Edisto Electric Coop, Inc",NOT_AVAIL,SCEG
+395,Edgecombe-Martin County E M C,PJM,PJM
+396,City of Edmond - (OK),SPP,SWPP
+397,City of Elberton,SOCO,SOCO
+398,Eldridge City Utilities,MISO,MISO
+399,City of Elizabeth City - (NC),PJM,PJM
+400,City of Elizabethton - (TN),TVA,TVA
+401,City of Elk River,MISO,MISO
+402,City of Elkhorn - (WI),MISO,MISO
+403,Elkhorn Rural Public Pwr Dist,SPP,SWPP
+404,Elmhurst Mutual Power & Light Co,BPA,BPAT
+405,City of Ely - (MN),MISO,MISO
+406,"Empire Electric Assn, Inc",WACM,WACM
+407,Excelsior Electric Member Corp,SOCO,SOCO
+408,"Fairfield Electric Coop, Inc",NOT_AVAIL,SCEG
+409,Village of Fairport - (NY),NYISO,NYIS
+410,Borough of Ephrata - (PA),PJM,PJM
+411,Town of Erwin - (TN),TVA,TVA
+412,"Escambia River Elec Coop, Inc",SOCO,SOCO
+413,Town of Estes Park,PSCO,PSCO
+414,City of Estherville - (IA),MISO,MISO
+415,City of Etowah,TVA,TVA
+416,City of Eudora - (KS),SPP,SWPP
+417,City of Eugene - (OR),PACW,PACW
+418,City of Evansville,MISO,MISO
+419,"Farmers Electric Coop, Inc - (IA)",MISO,MISO
+420,City of Fairbury,SPP,SWPP
+421,City of Fairfax - (MN),MISO,MISO
+422,City of Fairhope - (AL),SOCO,SOCO
+423,City of Ellensburg - (WA),PSEI,PSEI
+424,Fairmont Public Utilities Comm,MISO,MISO
+425,Farmers Electric Coop - (IA),MISO,MISO
+426,Fall River Rural Elec Coop Inc,PACE,PACE
+427,Fannin County Electric Coop,Ercot,ERCO
+428,City of Falls City - (NE),SPP,SWPP
+429,"Farmers Electric Coop, Inc - (MO)",MISO,MISO
+430,"Farmers Electric Coop, Inc - (TX)",SPP,SWPP
+431,"Fayette Electric Coop, Inc",Ercot,ERCO
+432,Farmers Rural Electric Coop Corp - (KY),PJM,PJM
+433,"Farmers Electric Coop, Inc - (NM)",PNM,PNM
+434,City of Farmington - (NM),PNM,PNM
+435,City of Farmington - (MO),MISO,MISO
+436,City of Fayetteville,TVA,TVA
+437,Fayetteville Public Works Commission,CPLE,CPLE
+438,Federated Rural Electric Assn,MISO,MISO
+439,"FEM Electric Assn, Inc",MISO,MISO
+440,PUD No 1 of Ferry County,AVA,AVA
+441,"Firelands Electric Coop, Inc",PJM,PJM
+442,First Electric Coop Corp,MISO,MISO
+443,Fitzgerald Wtr Lgt & Bond Comm,SOCO,SOCO
+444,City of Flandreau,MISO,MISO
+445,Flathead Electric Coop Inc,BPA,BPAT
+446,Flint Electric Membership Corp,NOT_AVAIL,NOT_AVAIL
+447,City of Flora - (IL),MISO,MISO
+448,City of Florence - (AL),TVA,TVA
+449,Florence Utility Comm,MISO,MISO
+450,City of Floresville,Ercot,ERCO
+451,"Flint Hills Rural E C A, Inc",SPP,SWPP
+452,Fleming-Mason Energy Coop Inc,LGEE,LGEE
+453,"Florida Keys El Coop Assn, Inc",FPL,FPL
+454,Foley Board of Utilities,SOCO,SOCO
+455,City of Forest City- (IA),MISO,MISO
+456,Town of Forest City,DUK,DUK
+457,City of Forest Grove,BPA,BPAT
+458,City of Fort Collins - (CO),WACM,WACM
+459,Fort Loudoun Electric Coop,TVA,TVA
+460,City of Fort Morgan,WACM,WACM
+461,Fort Belknap Electric Coop Inc,Ercot,ERCO
+462,Fort Payne Improvement Authority,TVA,TVA
+463,City of Fort Pierre - (SD),SPP,SWPP
+464,Fort Pierce Utilities Authority,FPL,FPL
+465,Fort Valley Utility Comm,SOCO,SOCO
+466,City of Fountain,WACM,WACM
+467,Four County Elec Member Corp,CPLE,CPLE
+468,4-County Electric Power Assn,TVA,TVA
+469,City of Frankfort - (IN),MISO,MISO
+470,City of Frankfort - (KY),LGEE,LGEE
+471,Easley Combined Utility System,DUK,DUK
+472,Town of Edenton - (NC),PJM,PJM
+473,City of Franklin - (VA),PJM,PJM
+474,PUD No 1 of Franklin County,BPA,BPAT
+475,Franklin Electric Coop - (AL),TVA,TVA
+476,City of Franklin - (KY),TVA,TVA
+477,Franklin Rural Electric Coop - (IA),MISO,MISO
+478,Town of Frederick - (CO),PSCO,PSCO
+479,City of Fredericksburg - (TX),Ercot,ERCO
+480,Village of Freeport - (NY),NYISO,NYIS
+481,City of Fremont - (NE),SPP,SWPP
+482,Freeborn-Mower Coop Services,MISO,MISO
+483,French Broad Elec Member Corp,CPLW,CPLW
+484,Town of Front Royal,PJM,PJM
+485,Frontier Power Company,PJM,PJM
+486,City of Fulton - (MO),MISO,MISO
+487,City of Fulton - (KY),TVA,TVA
+488,City of Gaffney - (SC),DUK,DUK
+489,City of Greendale,MISO,MISO
+490,Gainesville Regional Utilities,GVL,GVL
+491,City of Galion,PJM,PJM
+492,City of Gallatin - (TN),TVA,TVA
+493,City of Gallup - (NM),PNM,PNM
+494,City of Garden City,SPP,SWPP
+495,City of Gardner - (KS),SPP,SWPP
+496,Garland Light & Power Company,PACE,PACE
+497,"Garkane Energy Coop, Inc",PACE,PACE
+498,City of Garland - (TX),Ercot,ERCO
+499,City of Garnett - (KS),SPP,SWPP
+500,Gascosage Electric Coop,MISO,MISO
+501,City of Gastonia - (NC),DUK,DUK
+502,GreyStone Power Corporation,SOCO,SOCO
+503,City of Geneva- (IL),PJM,PJM
+504,City of Georgetown - (SC),SC,SC
+505,City of Georgetown - (TX),Ercot,ERCO
+506,City of Gering - (NE),SPP,SWPP
+507,Gibson Electric Members Corp,TVA,TVA
+508,City of Gillette - (WY),WACM,WACM
+509,City of Girard - (KS),SPP,SWPP
+510,"Glacier Electric Coop, Inc",BPA,BPAT
+511,"Glades Electric Coop, Inc",SEC,SEC
+512,City of Gladstone,MISO,MISO
+513,City of Glasgow - (KY),PJM,PJM
+514,Glencoe Light & Power Comm,MISO,MISO
+515,City of Glendale - (CA),LDWP,LDWP
+516,City of Glenwood Springs - (CO),PSCO,PSCO
+517,Raccoon Valley Electric Cooperative,MISO,MISO
+518,Golden Valley Elec Assn Inc,NOT_AVAIL,NOT_AVAIL
+519,City of Goodland - (KS),SPP,SWPP
+520,City of Gothenburg - (NE),SPP,SWPP
+521,City of Graettinger - (IA),MISO,MISO
+522,Grady Electric Membership Corp,SOCO,SOCO
+523,Graham County Electric Coop Inc,WALC,WALC
+524,Goodhue County Coop Elec Assn,MISO,MISO
+525,City of Grand Haven - (MI),MISO,MISO
+526,"Grand Electric Coop, Inc",SPP,SWPP
+527,Grand Rapids Public Util Comm,MISO,MISO
+528,PUD No 1 of Grays Harbor County,BPA,BPAT
+529,Grayson Rural Electric Coop Corp,PJM,PJM
+530,"Grayson-Collin Elec Coop, Inc",Ercot,ERCO
+531,"Greenbelt Electric Coop, Inc",SPP,SWPP
+532,Grand Valley Power,PSCO,PSCO
+533,City of Green Cove Springs,SEC,SEC
+534,City of Greeneville - (TN),TVA,TVA
+535,City of Greenfield - (IA),MISO,MISO
+536,City of Greenfield - (IN),MISO,MISO
+537,City of Greenville - (TX),Ercot,ERCO
+538,Greenville Utilities Comm,PJM,PJM
+539,Greenwood CPW,DUK,DUK
+540,Greenwood Utilities Comm,MISO,MISO
+541,Greer Commission of Public Wks,DUK,DUK
+542,City of Griffin - (GA),SOCO,SOCO
+543,Groton Dept of Utilities - (CT),ISONE,ISNE
+544,"Grundy Electric Coop, Inc",MISO,MISO
+545,Grundy Center Mun Light & Power,MISO,MISO
+546,Guthrie County Rural E C A,MISO,MISO
+547,Guadalupe Valley Elec Coop Inc,Ercot,ERCO
+548,"Gulf Coast Electric Coop, Inc",SOCO,SOCO
+549,Gunnison County Elec Assn.,WACM,WACM
+550,City of Gunnison - (CO),NOT_AVAIL,NOT_AVAIL
+551,Guntersville Electric Board,TVA,TVA
+552,Grundy County Rural Elec Coop,MISO,MISO
+553,H-D Electric Coop Inc,MISO,MISO
+554,Habersham Electric Membership Corp,SOCO,SOCO
+555,Guernsey-Muskingum El Coop Inc,PJM,PJM
+556,Hagerstown Light Department,PJM,PJM
+557,City of Halstad - (MN),MISO,MISO
+558,City of Hamilton - (OH),PJM,PJM
+559,Halifax Electric Member Corp,PJM,PJM
+560,Hamilton County Elec Coop Assn,Ercot,ERCO
+561,NineStar Connect,MISO,MISO
+562,Hancock-Wood Electric Coop Inc,PJM,PJM
+563,City of Hannibal - (MO),MISO,MISO
+564,Town of Hardwick,ISONE,ISNE
+565,Harlan Municipal Utilities - (IA),MISO,MISO
+566,City of Harriman - (TN),TVA,TVA
+567,Harrison County Rural E M C,MISO,MISO
+568,City of Harrisonburg - (VA),PJM,PJM
+569,City of Harrisonville - (MO),SPP,SWPP
+570,Hart Electric Member Corp,SOCO,SOCO
+571,Hartford Electric,MISO,MISO
+572,City of Hartselle,TVA,TVA
+573,City of Hastings - (NE),SPP,SWPP
+574,Havana Power & Light Company,SEC,SEC
+575,Harrison County Rrl Elec Coop,MISO,MISO
+576,City of Hawarden - (IA),SPP,SWPP
+577,Hawley Public Utilities Comm,MISO,MISO
+578,Heartland Power Coop,MISO,MISO
+579,Haywood Electric Member Corp,TVA,TVA
+580,City of Healdsburg - (CA),CAISO,CISO
+581,Heber Light & Power Company,PACE,PACE
+582,City of Hebron - (NE),SPP,SWPP
+583,Hendricks County Rural E M C,MISO,MISO
+584,Henderson City Utility Comm,MISO,MISO
+585,Henry County Rural E M C,PJM,PJM
+586,City of Hermiston,PACW,PACW
+587,Hibbing Public Utilities Comm,NOT_AVAIL,NOT_AVAIL
+588,City of Hickman,TVA,TVA
+589,High Plains Power Inc,PACE,PACE
+590,Highline Electric Assn,WACM,WACM
+591,Town of High Point,CPLE,CPLE
+592,City of Highland,MISO,MISO
+593,"Jackson Electric Coop, Inc - (WI)",MISO,MISO
+594,City of Hinton,SPP,SWPP
+595,"HILCO Electric Cooperative, Inc.",Ercot,ERCO
+596,Hillsdale Board of Public Wks,MISO,MISO
+597,"Hill County Electric Coop, Inc",WAUW,WAUW
+598,Inland Power & Light Company,AVA,AVA
+599,City of Holdrege,SPP,SWPP
+600,City of Holland,MISO,MISO
+601,City of Holly Springs,TVA,TVA
+602,Holmes-Wayne Electric Coop Inc,PJM,PJM
+603,"Holston Electric Coop, Inc",TVA,TVA
+604,City of Holton - (KS),SPP,SWPP
+605,"Holy Cross Electric Assn, Inc",PSCO,PSCO
+606,City of Holyoke - (MA),ISONE,ISNE
+607,"Fox Islands Electric Coop, Inc",ISONE,ISNE
+608,Horry Electric Coop Inc,SC,SC
+609,City of Homestead - (FL),HST,HST
+610,City of Hingham - (MA),ISONE,ISNE
+611,M J M Electric Cooperative Inc,MISO,MISO
+612,Hood River Electric Coop,BPA,BPAT
+613,City of Hope,MISO,MISO
+614,City of Hopkinsville,MISO,MISO
+615,Houlton Water Company,ISONE,ISNE
+616,Terrebonne Parish Consol Gov't,MISO,MISO
+617,Houston County Elec Coop Inc,Ercot,ERCO
+618,Howard Electric Coop,AECI,AECI
+619,Howard Greeley Rural P P D,SPP,SWPP
+620,"Howell-Oregon Elec Coop, Inc",AECI,AECI
+621,City of Hudson - (OH),PJM,PJM
+622,Town of Hudson - (MA),ISONE,ISNE
+623,City of Hugoton - (KS),SPP,SWPP
+624,City of Humboldt,TVA,TVA
+625,Town of Huntersville - (NC),DUK,DUK
+626,City of Huntsville - (AL),TVA,TVA
+627,City of Lafayette - (LA),MISO,MISO
+628,Hustisford Utilities,MISO,MISO
+629,Hurricane City Power,PACE,PACE
+630,Hutchinson Utilities Comm,MISO,MISO
+631,Hyrum City Corporation,PACE,PACE
+632,City of Idaho Falls - (ID),PACE,PACE
+633,Illinois Rural Electric Coop,MISO,MISO
+634,Imperial Irrigation District,IID,IID
+635,City of Imperial,SPP,SWPP
+636,City of Independence - (IA),MISO,MISO
+637,City of Independence - (MO),SPP,SWPP
+638,"Indian Electric Coop, Inc",SPP,SWPP
+639,Indianola Municipal Utilities,MISO,MISO
+640,Inter County Energy Coop Corp,PJM,PJM
+641,Intercounty Electric Coop Assn,AECI,AECI
+642,Intermountain Rural Elec Assn,PSCO,PSCO
+643,City of Iola - (KS),SPP,SWPP
+644,Iowa Lakes Electric Coop,MISO,MISO
+645,Irwin Electric Membership Corp,SOCO,SOCO
+646,Town of Ipswich - (MA),ISONE,ISNE
+647,Itasca-Mantrap Co-op Electrical Assn,MISO,MISO
+648,Jackson Energy Coop Corp - (KY),PJM,PJM
+649,Jackson County Rural E M C - (IN),MISO,MISO
+650,"Jackson Electric Coop, Inc - (TX)",Ercot,ERCO
+651,City of Jackson - (OH),PJM,PJM
+652,City of Jackson - (MN),MISO,MISO
+653,Jackson Electric Member Corp - (GA),SOCO,SOCO
+654,City of Jackson - (MO),MISO,MISO
+655,Jackson Purchase Energy Corporation,MISO,MISO
+656,City of Jackson - (TN),TVA,TVA
+657,City of Lebanon - (IN),MISO,MISO
+658,Beaches Energy Services,JEA,JEA
+659,JEA,JEA,JEA
+660,Jamestown Board of Public Util,NYISO,NYIS
+661,City of Jasper - (TX),MISO,MISO
+662,Jasper County Rural E M C,MISO,MISO
+663,Jay County Rural E M C,PJM,PJM
+664,City of Jasper - (IN),MISO,MISO
+665,"Jasper-Newton Elec Coop, Inc",MISO,MISO
+666,"Jefferson Davis Elec Coop, Inc",MISO,MISO
+667,Jefferson Electric Member Corp,SOCO,SOCO
+668,Jefferson Utilities,MISO,MISO
+669,City of Jellico,NOT_AVAIL,NOT_AVAIL
+670,"Jemez Mountains Elec Coop, Inc",PNM,PNM
+671,City of Jewett City - (CT),ISONE,ISNE
+672,Joe Wheeler Elec Member Corp,TVA,TVA
+673,"Jo-Carroll Energy, Inc",PJM,PJM
+674,Johnson City - (TN),TVA,TVA
+675,Johnson County Rural E M C,MISO,MISO
+676,Jones-Onslow Elec Member Corp,CPLE,CPLE
+677,City Water and Light Plant,MISO,MISO
+678,Jump River Electric Coop Inc,MISO,MISO
+679,Juneau Utility Comm,MISO,MISO
+680,Kenergy Corp,MISO,MISO
+681,Kandiyohi Power Coop,MISO,MISO
+682,City of Kansas City - (KS),SPP,SWPP
+683,Kankakee Valley Rural E M C,MISO,MISO
+684,Karnes Electric Coop Inc,Ercot,ERCO
+685,Kay Electric Coop,SPP,SWPP
+686,FreeState Electric Coop,SPP,SWPP
+687,City of Kaukauna,MISO,MISO
+688,City of Lamar - (MO),SPP,SWPP
+689,Kaysville City Corporation,pace,pace
+690,KBR Rural Public Power District,spp,swpp
+691,K C Electric Association,WACM,WACM
+692,Kauai Island Utility Cooperative,NOT_AVAIL,NOT_AVAIL
+693,Kennebunk Light & Power Dist,ISONE,ISNE
+694,City of Kennett - (MO),SPA,SPA
+695,KEM Electric Coop Inc,MISO,MISO
+696,"Kiamichi Electric Coop, Inc",SPP,SWPP
+697,Kenyon Municipal Utilities,MISO,MISO
+698,Ketchikan Public Utilities,NOT_AVAIL,NOT_AVAIL
+699,"Utility Board of the City of Key West, F",FPL,FPL
+700,City of Kimball - (NE),WACM,WACM
+701,City of Kingman - (KS),SPP,SWPP
+702,City of Kings Mountain - (NC),DUK,DUK
+703,City of Kinston - (NC),SC,SC
+704,City of Kirkwood - (MO),MISO,MISO
+705,Kissimmee Utility Authority,FMPP,FMPP
+706,"Kit Carson Electric Coop, Inc",PNM,PNM
+707,PUD No 1 of Klickitat County,BPA,BPAT
+708,Knoxville Utilities Board,TVA,TVA
+709,Kodiak Electric Assn Inc,NOT_AVAIL,NOT_AVAIL
+710,Kosciusko County Rural E M C,MISO,MISO
+711,Kotzebue Electric Assn Inc,NOT_AVAIL,NOT_AVAIL
+712,Kootenai Electric Cooperative,AVA,AVA
+713,Village of L'Anse - (MI),MISO,MISO
+714,"La Plata Electric Assn, Inc",PSCO,PSCO
+715,McCook Public Power District,SPP,SWPP
+716,"LaCreek Electric Assn, Inc",SPP,SWPP
+717,Lagrange County Rural E M C,MISO,MISO
+718,City of LaFollette,TVA,TVA
+719,City of La Grange - (GA),SOCO,SOCO
+720,City of Lake City - (MN),MISO,MISO
+721,City of Lake Crystal - (MN),MISO,MISO
+722,"Lake Region Electric Coop, Inc - (OK)",SPP,SWPP
+723,"Laclede Electric Coop, Inc",AECI,AECI
+724,Lake Mills Light & Water,MISO,MISO
+725,City of Lake Mills,MISO,MISO
+726,"Lake Placid Village, Inc - (NY)",NYISO,NYIS
+727,Lake Region Electric Cooperative - (MN),MISO,MISO
+728,City of Lake Worth - (FL),FPL,FPL
+729,City of Lakeland - (FL),FMPP,FMPP
+730,Southern Rivers Energy,SOCO,SOCO
+731,"Lamb County Electric Coop, Inc",SPP,SWPP
+732,Lakeview Light & Power,TPWR,TPWR
+733,City of Lakota - (ND),SPP,SWPP
+734,"Lake Region Electric Assn, Inc - (SD)",MISO,MISO
+735,Lamar County Elec Coop Assn,Ercot,ERCO
+736,City of Lamoni - (IA),MISO,MISO
+737,City of Lampasas - (TX),Ercot,ERCO
+738,Licking Rural Electric Inc,PJM,PJM
+739,Lane Electric Coop Inc,BPA,BPAT
+740,Lake Country Power,MISO,MISO
+741,Borough of Lansdale,PJM,PJM
+742,City of Lansing - (MI),MISO,MISO
+743,City of Larned - (KS),SPP,SWPP
+744,Lassen Municipal Utility District,CAISO,CAIS
+745,"Lane-Scott Electric Coop, Inc",SPP,SWPP
+746,"Laurens Electric Coop, Inc",DUK,DUK
+747,City of Laurens - (IA),SPP,SWPP
+748,City of Laurinburg - (NC),CPLE,CPLE
+749,Lawrenceburg Municipal Utils,MISO,MISO
+750,City of Lawrenceburg,TVA,TVA
+751,City of Lawrenceville - (GA),SOCO,SOCO
+752,City of Le Sueur - (MN),MISO,MISO
+753,"Lea County Electric Coop, Inc",PNM,PNM
+754,City of Lebanon - (OH),PJM,PJM
+755,City of Lebanon - (MO),NOT_AVAIL,NOT_AVAIL
+756,"Lee County Electric Coop, Inc",FPL,FPL
+757,City of Leesburg - (FL),FPC,FPC
+758,Lehi City Corporation,PACE,PACE
+759,City of Lenoir - (TN),TVA,TVA
+760,City of Lenox - (IA),MISO,MISO
+761,PUD No 1 of Lewis County,PSEI,PSEI
+762,City of Lewisburg - (TN),TVA,TVA
+763,Lewis County Rural E C A,MISO,MISO
+764,City of Lexington - (NC),DUK,DUK
+765,City of Lexington - (NE),SPP,SWPP
+766,City of Lexington - (TN),TVA,TVA
+767,City of Liberty - (TX),MISO,MISO
+768,Licking Valley Rural E C C,PJM,PJM
+769,"Lighthouse Electric Coop, Inc",SPP,SWPP
+770,Lincoln Electric System,SPP,SWPP
+771,Little River Electric Coop Inc,DUK,DUK
+772,"Lincoln Electric Coop, Inc",BPA,BPAT
+773,Linn County REC,MISO,MISO
+774,Litchfield Public Utilities,MISO,MISO
+775,Town of Littleton - (MA),ISONE,ISNE
+776,City of Lockhart - (TX),Ercot,ERCO
+777,City of Lodi - (CA),NOT_AVAIL,NOT_AVAIL
+778,City of Lodi - (WI),MISO,MISO
+779,City of Logan - (UT),PACE,PACE
+780,City of Logansport - (IN),MISO,MISO
+781,City of Lompoc - (CA),CAISO,CAIS
+782,Long Island Power Authority,NYISO,NYIS
+783,City of Longmont,WACM,WACM
+784,"Lorain-Medina R E C, Inc",PJM,PJM
+785,Logan County Coop Power & Light,PJM,PJM
+786,Los Alamos County,PNM,PNM
+787,Los Angeles Department of Water & Power,LDWP,LDWP
+788,Loudon Utilities Board,TVA,TVA
+789,Louisville Electric System,TVA,TVA
+790,Loup Valleys Rural P P D,SPP,SWPP
+791,Loup River Public Power Dist,SPP,SWPP
+792,City of Loveland - (CO),WACM,WACM
+793,"Lower Yellowstone R E A, Inc",MISO,MISO
+794,Lower Valley Energy Inc,PACE,PACE
+795,Lumbee River Elec Member Corp,CPLE,CPLE
+796,City of Lubbock - (TX),SPP,SWPP
+797,Lyon Rural Electric Coop,SPP,SWPP
+798,Village of Ludlow - (VT),ISONE,ISNE
+799,City of Lumberton - (NC),CPLE,CPLE
+800,City of Luverne - (MN),MISO,MISO
+801,"Lyon-Coffey Electric Coop, Inc",SPP,SWPP
+802,"Lyon-Lincoln Electric Cooperative, Inc.",MISO,MISO
+803,"Lynches River Elec Coop, Inc",CPLE,CPLE
+804,Village of Lyndonville - (VT),ISONE,ISNE
+805,"Lyntegar Electric Coop, Inc",Ercot,ERCO
+806,City of Macon - (MS),TVA,TVA
+807,City of Macon - (MO),MISO,MISO
+808,Macon Electric Coop,MISO,MISO
+809,City of Madison - (SD),MISO,MISO
+810,Borough of Madison - (NJ),PJM,PJM
+811,Town of Madison - (ME),ISONE,ISNE
+812,City of Madison - (NE),SPP,SWPP
+813,Madisonville Municipal Utils,LGEE,LGEE
+814,Magic Valley Electric Coop Inc,Ercot,ERCO
+815,Magnolia Electric Power Assn,MISO,MISO
+816,City of Manassas - (VA),PJM,PJM
+817,City of Mangum - (OK),SPP,SWPP
+818,Town of Manilla - (IA),MISO,MISO
+819,Manitowoc Public Utilities,MISO,MISO
+820,City of Manning,MISO,MISO
+821,Town of Mansfield - (MA),ISONE,ISNE
+822,"Harney Electric Coop, Inc",BPA,BPAT
+823,City of Maquoketa - (IA),MISO,MISO
+824,City of Marblehead - (MA),ISONE,ISNE
+825,Marias River Electric Coop Inc,NWMT,NWMT
+826,City of Marietta - (GA),SOCO,SOCO
+827,"Marlboro Electric Coop, Inc",CPLE,CPLE
+828,City of Marquette - (MI),MISO,MISO
+829,City of Marshall - (MI),MISO,MISO
+830,Marshall-De Kalb Electric Coop,TVA,TVA
+831,City of Marshall - (MN),MISO,MISO
+832,City of Marshall - (MO),SPP,SWPP
+833,City of Marshfield - (WI),MISO,MISO
+834,Marshall County Rural E M C,MISO,MISO
+835,City of Martinsville - (VA),PJM,PJM
+836,Consumers Energy,MISO,MISO
+837,Maryville Utilities,TVA,TVA
+838,Town of Massena - (NY),NYISO,NYIS
+839,Matanuska Electric Assn Inc,NOT_AVAIL,NOT_AVAIL
+840,City of Mayfield Plant Board,TVA,TVA
+841,McLeod Cooperative Power Assn,MISO,MISO
+842,McCone Electric Coop Inc,NWMT,NWMT
+843,McKenzie Electric Coop Inc,SPP,SWPP
+844,"McLean Electric Coop, Inc",SPP,SWPP
+845,McMinnville Electric System,TVA,TVA
+846,City of McMinnville - (OR),PGE,PGE
+847,City of McPherson - (KS),SPP,SWPP
+848,Meeker Coop Light & Power Assn,MISO,MISO
+849,Meade County Rural E C C,MISO,MISO
+850,Mecklenburg Electric Cooperative,PJM,PJM
+851,City of Medford - (WI),MISO,MISO
+852,"Medina Electric Coop, Inc",Ercot,ERCO
+853,Melrose Public Utilities,MISO,MISO
+854,City of Memphis - (TN),TVA,TVA
+855,City of Menasha - (WI),MISO,MISO
+856,Nodak Electric Coop Inc,SPP,SWPP
+857,Merced Irrigation District,CAISO,CAIS
+858,Meriwether Lewis Electric Coop,TVA,TVA
+859,City of Mesa - (AZ),SRP,SRP
+860,Midwest Energy Cooperative,MISO,MISO
+861,Menard Electric Coop,MISO,MISO
+862,Miami-Cass County Rural E M C,MISO,MISO
+863,City of Miami - (OK),SPP,SWPP
+864,"Midstate Electric Coop, Inc",BPA,BPAT
+865,Midland Power Coop,MISO,MISO
+866,Mid-South Electric Coop Assn,MISO,MISO
+867,Mid-Carolina Electric Coop Inc,NOT_AVAIL,SCEG
+868,"Mid-Yellowstone Elec Coop, Inc",NWMT,NWMT
+869,Middle Tennessee E M C,TVA,TVA
+870,Middle Georgia El Member Corp,SOCO,SOCO
+871,Town of Middleborough - (MA),ISONE,ISNE
+872,Town of Middleton,ISONE,ISNE
+873,Town of Middletown - (DE),PJM,PJM
+874,"Midwest Electric, Inc",PJM,PJM
+875,Midwest Energy Inc,SPP,SWPP
+876,City of Milan,TVA,TVA
+877,Midwest Electric Member Corp,SPP,SWPP
+878,City of Milford - (DE),PJM,PJM
+879,City of Milford - (IA),MISO,MISO
+880,Mille Lacs Energy Cooperative,MISO,MISO
+881,City of Miller - (SD),SPP,SWPP
+882,City of Milton-Freewater- (OR),BPA,BPAT
+883,City of Minden - (LA),MISO,MISO
+884,City of Minden - (NE),SPP,SWPP
+885,Maquoketa Valley Rrl Elec Coop,MISO,MISO
+886,Minnesota Valley Electric Coop,MISO,MISO
+887,Village of Minster - (OH),PJM,PJM
+888,City of Mishawaka,PJM,PJM
+889,Mississippi County Electric Co,MISO,MISO
+890,"Missoula Electric Coop, Inc",BPA,BPAT
+891,Missouri Rural Electric Coop,MISO,MISO
+892,Mitchell Electric Member Corp,SOCO,SOCO
+893,Modern Electric Water Company,AVA,AVA
+894,Modesto Irrigation District,TIDC,TIDC
+895,City of Monett - (MO),SPP,SWPP
+896,City of Monmouth - (OR),BPA,BPAT
+897,City of Monroe - (GA),SOCO,SOCO
+898,City of Monroe - (NC),DUK,DUK
+899,"Monroe County Elec Coop, Inc",MISO,MISO
+900,City of Montezuma - (IA),MISO,MISO
+901,Morgan County Rural Elec Assn,WACM,WACM
+902,Moon Lake Electric Assn Inc,PACE,PACE
+903,City of Moorhead - (MN),MISO,MISO
+904,Moose Lake Water & Light Comm,MISO,MISO
+905,Mor-Gran-Sou Electric Coop Inc,MISO,MISO
+906,City of Mora - (MN),MISO,MISO
+907,Mora-San Miguel Elec Coop,PNM,PNM
+908,Moreau-Grand Electric Coop Inc,SPP,SWPP
+909,Morgan City - (LA),MISO,MISO
+910,South Central Indiana REMC,MISO,MISO
+911,City of Morganton - (NC),TVA,TVA
+912,City of Morristown - (TN),TVA,TVA
+913,Village of Morrisville - (VT),ISONE,ISNE
+914,Consolidated Electric Coop Inc,PJM,PJM
+915,City of Moultrie - (GA),SOCO,SOCO
+916,"Mountain Electric Coop, Inc",TVA,TVA
+917,City of Moundridge - (KS),SPP,SWPP
+918,Village of Mt. Horeb - (WI),MISO,MISO
+919,City of Mt Pleasant - (IA),MISO,MISO
+920,City of Mt Pleasant - (TN),TVA,TVA
+921,City of Mount Vernon - (MO),SPP,SWPP
+922,"Mountain Parks Electric, Inc",PSCO,PSCO
+923,"Mountain View Elec Assn, Inc",WACM,WACM
+924,"Mt Wheeler Power, Inc",NEVP,NEVP
+925,City of Mulvane - (KS),SPP,SWPP
+926,City of Murfreesboro,TVA,TVA
+927,City of Murray - (UT),PACE,PACE
+928,City of Murray - (KY),TVA,TVA
+929,Board of Water Electric & Communications,MISO,MISO
+930,City of Muscle Shoals,TVA,TVA
+931,Village of Muscoda - (WI),MISO,MISO
+932,Northern Plains Electric Coop,MISO,MISO
+933,City of Naperville - (IL),PJM,PJM
+934,City of Napoleon - (OH),PJM,PJM
+935,Nashville Electric Service,TVA,TVA
+936,Natchez Trace Elec Power Assn,TVA,TVA
+937,City of Natchitoches,MISO,MISO
+938,City of Neligh - (NE),SPP,SWPP
+939,Norris Electric Coop,MISO,MISO
+940,Navajo Tribal Utility Authority,WALC,WALC
+941,"Navopache Electric Coop, Inc",PNM,PNM
+942,"Navarro County Elec Coop, Inc",Ercot,ERCO
+943,City of Nebraska City,SPP,SWPP
+944,Nebraska Public Power District,SPP,SWPP
+945,City of Negaunee,MISO,MISO
+946,City of Neodesha - (KS),SPP,SWPP
+947,"Nemaha-Marshall E C A, Inc",SPP,SWPP
+948,City of New Albany - (MS),NOT_AVAIL,NOT_AVAIL
+949,City of New Bern - (NC),CPLE,CPLE
+950,City of New Braunfels - (TX),Ercot,ERCO
+951,New Castle Municipal Serv Comm,PJM,PJM
+952,City of Newbern,TVA,TVA
+953,Village of New Glarus - (WI),MISO,MISO
+954,New Hampshire Elec Coop Inc,ISONE,ISNE
+955,City of New Hampton - (IA),MISO,MISO
+956,City of New Holstein - (WI),MISO,MISO
+957,New London Electric&Water Util,MISO,MISO
+958,New Prague Utilities Comm,MISO,MISO
+959,City of New Richmond,MISO,MISO
+960,New River Light & Power Co,DUK,DUK
+961,New Smyrna Beach City of,FPL,FPL
+962,New Ulm Public Utilities Comm,MISO,MISO
+963,City of Newark - (DE),PJM,PJM
+964,"New-Mac Electric Coop, Inc",SPP,SWPP
+965,City of Newberry - (SC),DUK,DUK
+966,"Newberry Electric Coop, Inc",NOT_AVAIL,SCEG
+967,"Newnan Wtr, Sewer & Light Comm",SOCO,SOCO
+968,City of Newport,TVA,TVA
+969,City of Newton - (NC),DUK,DUK
+970,Ninnescah Rural E C A Inc,SPP,SWPP
+971,City of Nicholasville - (KY),PJM,PJM
+972,City of Niles - (OH),PJM,PJM
+973,City of Niles - (MI),PJM,PJM
+974,Niobrara Valley El Member Corp,SPP,SWPP
+975,Northern Virginia Elec Coop,PJM,PJM
+976,Nome Joint Utility Systems,NOT_AVAIL,NOT_AVAIL
+977,City of Norcross- (GA),SOCO,SOCO
+978,Noble County R E M C,MISO,MISO
+979,Nolin Rural Electric Coop Corp,PJM,PJM
+980,Norris Public Power District,SPP,SWPP
+981,North Alabama Electric Coop,TVA,TVA
+982,Nishnabotna Valley R E C,MISO,MISO
+983,"North Arkansas Elec Coop, Inc",SPA,SPA
+984,Town of North Attleborough - (MA),ISONE,ISNE
+985,Nobles Cooperative Electric,MISO,MISO
+986,North Central MO Elec Coop Inc,AECI,AECI
+987,"North Central Elec Coop, Inc",MISO,MISO
+988,North Central Public Pwr Dist,SPP,SWPP
+989,North Itasca Electric Coop Inc,MISO,MISO
+990,"North Western Elec Coop, Inc",PJM,PJM
+991,North Georgia Elec Member Corp,TVA,TVA
+992,City of North Little Rock - (AR),MISO,MISO
+993,City of North Platte,SPP,SWPP
+994,City of North St Paul - (MN),MISO,MISO
+995,"North Star Electric Coop, Inc",MISO,MISO
+996,Northeast Oklahoma Electric Co,SPP,SWPP
+997,Northcentral Mississippi E P A,TVA,TVA
+998,Northeast Power,SPP,SWPP
+999,"Northern Electric Coop, Inc",MISO,MISO
+1000,North Plains Electric Coop Inc,SPP,SWPP
+1001,"Northern Lights, Inc",BPA,BPAT
+1002,"Northern Neck Elec Coop, Inc",PJM,PJM
+1003,Northeast Louisiana Power Coop Inc.,MISO,MISO
+1004,Northern Wasco County PUD,BPA,BPAT
+1005,Village of Northfield - (VT),ISONE,ISNE
+1006,Prairie Land Electric Coop Inc,SPP,SWPP
+1007,Northwest Rural Pub Pwr Dist,WACM,WACM
+1008,Northwestern Electric Coop Inc - (OK),SPP,SWPP
+1009,Norwalk Third Taxing District,ISONE,ISNE
+1010,City of Norway,MISO,MISO
+1011,Nueces Electric Cooperative,Ercot,ERCO
+1012,City of Norwich - (CT),ISONE,ISNE
+1013,"Northfork Electric Coop, Inc",SPP,SWPP
+1014,City of Norwood - (MA),ISONE,ISNE
+1015,Oahe Electric Coop Inc,SPP,SWPP
+1016,City of Oak Ridge,TVA,TVA
+1017,Ocmulgee Electric Member Corp,SOCO,SOCO
+1018,Oakdale Electric Coop,MISO,MISO
+1019,City of Oberlin - (OH),PJM,PJM
+1020,City of Ocala,FPC,FPC
+1021,Oconee Electric Member Corp,SOCO,SOCO
+1022,Oconomowoc Utilities,MISO,MISO
+1023,Oconto Electric Cooperative,MISO,MISO
+1024,Oconto Falls Water & Light Comm,MISO,MISO
+1025,"Ohop Mutual Light Company, Inc",PSEI,PSEI
+1026,PUD No 1 of Okanogan County,DOPD,DOPD
+1027,Oklahoma Electric Coop Inc,SPP,SWPP
+1028,"Okanogan County Elec Coop, Inc",DOPD,DOPD
+1029,City of Okolona,TVA,TVA
+1030,City of Olivia - (MN),MISO,MISO
+1031,"Oregon Trail El Cons Coop, Inc",BPA,BPAT
+1032,Omaha Public Power District,SPP,SWPP
+1033,City of Onawa - (IA),MISO,MISO
+1034,City of Opelika - (AL),SOCO,SOCO
+1035,City of Orange City - (IA),SPP,SWPP
+1036,Orange County Rural E M C,MISO,MISO
+1037,City of Orangeburg - (SC),NOT_AVAIL,SCEG
+1038,Orcas Power & Light Coop,BPA,BPAT
+1039,City of Ord - (NE),SPP,SWPP
+1040,"Tri-County Electric Coop, Inc",SPP,SWPP
+1041,"P K M Electric Coop, Inc",MISO,MISO
+1042,Osage Valley Elec Coop Assn,SPP,SWPP
+1043,City of Orrville - (OH),PJM,PJM
+1044,City of Osage City - (KS),SPP,SWPP
+1045,City of Osage - (IA),MISO,MISO
+1046,"Osceola Electric Coop, Inc",MISO,MISO
+1047,City of Osawatomie - (KS),SPP,SWPP
+1048,City of Osceola - (AR),MISO,MISO
+1049,Otero County Electric Coop Inc,SPP,SWPP
+1050,City of Ottawa - (KS),SPP,SWPP
+1051,Ouachita Electric Coop Corp,MISO,MISO
+1052,Overton Power District No 5,NEVP,NEVP
+1053,City of Owatonna - (MN),MISO,MISO
+1054,Owen Electric Coop Inc,LGEE,LGEE
+1055,City of Owensboro - (KY),MISO,MISO
+1056,City of Oxford - (MS),TVA,TVA
+1057,Ozark Border Electric Coop,AECI,AECI
+1058,Ozark Electric Coop Inc - (MO),SPP,SWPP
+1059,Ozarks Electric Coop Corp - (AR),SPP,SWPP
+1060,PUD No 2 of Pacific County,BPA,BPAT
+1061,City of Paducah - (KY),MISO,MISO
+1062,Page Utility Enterprises,WALC,WALC
+1063,City of Painesville,PJM,PJM
+1064,Palmetto Electric Coop Inc,NOT_AVAIL,SCEG
+1065,City of Palo Alto - (CA),CAISO,CAIS
+1066,"Panola-Harrison Elec Coop, Inc",SPP,SWPP
+1067,Panhandle Rural El Member Assn,SPP,SWPP
+1068,Paragould Light & Water Comm,SPA,SPA
+1069,City of Paris - (TN),TVA,TVA
+1070,People's Cooperative Services,MISO,MISO
+1071,Parke County Rural E M C,MISO,MISO
+1072,Park Electric Coop Inc,NWMT,NWMT
+1073,Parkland Light & Water Company,BPA,BPAT
+1074,City of Pasadena - (CA),CAISO,CAIS
+1075,Pascoag Utility District,ISONE,ISNE
+1076,"Pee Dee Electric Coop, Inc",SC,SC
+1077,Pearl River Valley El Pwr Assn,MISO,MISO
+1078,City of Pawhuska - (OK),SPP,SWPP
+1079,"Paulding-Putman Elec Coop, Inc",PJM,PJM
+1080,Payson City Corporation,PACE,PACE
+1081,Pea River Electric Coop,SOCO,SOCO
+1082,City of Peabody - (MA),ISONE,ISNE
+1083,"Peace River Electric Coop, Inc",SEC,SEC
+1084,Orlando Utilities Comm,FMPP,FMPP
+1085,PUD No 2 of Grant County,GCPD,GCPD
+1086,"Pedernales Electric Coop, Inc",Ercot,ERCO
+1087,City of Pella - (IA),MISO,MISO
+1088,Planters Electric Member Corp,SOCO,SOCO
+1089,PUD No 1 of Pend Oreille County,AVA,AVA
+1090,Peninsula Light Company,BPA,BPAT
+1091,Pemiscot-Dunklin Elec Coop Inc,MISO,MISO
+1092,Pee Dee Electric Member Corp,CPLE,CPLE
+1093,Pennyrile Rural Electric Coop,TVA,TVA
+1094,People's Electric Cooperative,SPP,SWPP
+1095,City of Peru - (IN),MISO,MISO
+1096,City of Peru - (IL),MISO,MISO
+1097,Petersburg Borough - (AK),NOT_AVAIL,NOT_AVAIL
+1098,Pitt & Greene Elec Member Corp,PJM,PJM
+1099,Petit Jean Electric Coop Corp,MISO,MISO
+1100,City of Petoskey - (MI),MISO,MISO
+1101,City of Philadelphia - (MS),TVA,TVA
+1102,Pickwick Electric Coop,TVA,TVA
+1103,Piedmont Electric Member Corp,CPLE,CPLE
+1104,Pierce-Pepin Coop Services,MISO,MISO
+1105,City of Pierce - (NE),SPP,SWPP
+1106,City of Pierre - (SD),SPP,SWPP
+1107,Electrical Dist No2 Pinal County,AZPS,AZPS
+1108,Electrical Dist No4 Pinal County,AZPS,AZPS
+1109,"Pioneer Rural Elec Coop, Inc - (OH)",PJM,PJM
+1110,Town of Pineville - (NC),DUK,DUK
+1111,"Pioneer Electric Coop, Inc - (KS)",SPP,SWPP
+1112,City of Piqua - (OH),PJM,PJM
+1113,"Platte-Clay Electric Coop, Inc",AECI,AECI
+1114,Plateau Electric Cooperative,TVA,TVA
+1115,City of Plattsburgh - (NY),NYISO,NYIS
+1116,City of Plymouth - (WI),MISO,MISO
+1117,Pointe Coupee Elec Member Corp,MISO,MISO
+1118,Polk County Rural Pub Pwr Dist,SPP,SWPP
+1119,City of Ponca City - (OK),SPP,SWPP
+1120,Pontotoc Electric Power Assn,TVA,TVA
+1121,City of Poplar Bluff - (MO),SPA,SPA
+1122,City of Port Angeles - (WA),BPA,BPAT
+1123,"Poudre Valley REA, Inc",PSCO,PSCO
+1124,Prairie Energy Coop,MISO,MISO
+1125,Powell Valley Electric Coop,TVA,TVA
+1126,Plumas-Sierra Rural Elec Coop,CAISO,CAIS
+1127,Prague Public Works Authority,SPP,SWPP
+1128,Village of Prairie Du Sac - (WI),MISO,MISO
+1129,City of Pratt- (KS),SPP,SWPP
+1130,Prentiss County Elec Pwr Assn,TVA,TVA
+1131,Presque Isle Elec & Gas Coop,MISO,MISO
+1132,Polk-Burnett Electric Coop,MISO,MISO
+1133,City of Preston,MISO,MISO
+1134,Price Electric Coop Inc,MISO,MISO
+1135,City of Princeton - (KY),MISO,MISO
+1136,Princeton Public Utils Comm,MISO,MISO
+1137,City of Princeton - (IL),MISO,MISO
+1138,Prince George Electric Coop,PJM,PJM
+1139,PUD No 3 of Mason County,BPA,BPAT
+1140,Provo City Corp,PACE,PACE
+1141,City of Pryor - (OK),SPP,SWPP
+1142,City of Pulaski - (TN),TVA,TVA
+1143,Borough of Quakertown - (PA),PJM,PJM
+1144,City of Quincy - (FL),SEC,SEC
+1145,City of Radford - (VA),PJM,PJM
+1146,"Radiant Electric Coop, Inc",SPP,SWPP
+1147,Randolph Electric Member Corp,CPLE,CPLE
+1148,Ralls County Electric Coop,MISO,MISO
+1149,Village of Rantoul - (IL),MISO,MISO
+1150,Rayle Electric Membership Corp,SOCO,SOCO
+1151,Red River Valley Rrl Elec Assn,SPP,SWPP
+1152,Town of Reading - (MA),ISONE,ISNE
+1153,Redwood Electric Coop,MISO,MISO
+1154,Reedy Creek Improvement Dist,FPC,FPC
+1155,City of Redding - (CA),CAISO,CAIS
+1156,Redwood Falls Public Util Comm,MISO,MISO
+1157,Reedsburg Utility Comm,MISO,MISO
+1158,"Rich Mountain Elec Coop, Inc",SPP,SWPP
+1159,Renville-Sibley Coop Pwr Assn,MISO,MISO
+1160,City of Remsen - (IA),SPP,SWPP
+1161,Reliant Energy Retail Services,Ercot,ERCO
+1162,City of Rensselaer - (IN),MISO,MISO
+1163,Rice Lake Utilities,MISO,MISO
+1164,City of Richland Center - (WI),MISO,MISO
+1165,City of Richland - (WA),BPA,BPAT
+1166,City of Richmond - (IN),MISO,MISO
+1167,"Rio Grande Electric Coop, Inc",Ercot,ERCO
+1168,Riverland Energy Cooperative,MISO,MISO
+1169,"Rita Blanca Electric Coop, Inc",EPE,EPE
+1170,City of River Falls,MISO,MISO
+1171,City of Riverside - (CA),CAISO,CAIS
+1172,Roanoke Electric Member Corp,PJM,PJM
+1173,"Navasota Valley Elec Coop, Inc",Ercot,ERCO
+1174,Roosevelt Public Power Dist,SPP,SWPP
+1175,Rochelle Municipal Utilities,PJM,PJM
+1176,Rochester Public Utilities,MISO,MISO
+1177,City of Rock Hill - (SC),DUK,DUK
+1178,Rock Energy Cooperative,MISO,MISO
+1179,Rock Rapids Municipal Utility,SPP,SWPP
+1180,Village of Rockville Centre - (NY),NYISO,NYIS
+1181,City of Rockwood - (TN),TVA,TVA
+1182,City of Rocky Mount - (NC),CPLE,CPLE
+1183,City of Rolla - (MO),AECI,AECI
+1184,Rolling Hills Electric Coop,SPP,SWPP
+1185,"Roseau Electric Coop, Inc",MISO,MISO
+1186,Rosebud Electric Coop Inc,SPP,SWPP
+1187,City of Roseville - (CA),BANC,BANC
+1188,Village of Rouses Point - (NY),NYISO,NYIS
+1189,Runestone Electric Assn,MISO,MISO
+1190,"Rural Electric Coop, Inc",SPP,SWPP
+1191,City of Rupert - (ID),IPCO,IPCO
+1192,Rural Electric Conven Coop,MISO,MISO
+1193,City of Russell - (KS),SPP,SWPP
+1194,City of Russellville - (AL),TVA,TVA
+1195,City of Russellville - (KY),TVA,TVA
+1196,"Rusk County Electric Coop, Inc",SPP,SWPP
+1197,City of Ruston - (LA),MISO,MISO
+1198,Rutherford Elec Member Corp,DUK,DUK
+1199,Sac-Osage Electric Coop Inc,SPP,SWPP
+1200,City of Sabetha - (KS),SPP,SWPP
+1201,Sacramento Municipal Util Dist,CAISO,CAIS
+1202,City of Salamanca - (NY),NYISO,NYIS
+1203,Salem Electric - (OR),PGE,PGE
+1204,City of Salem - (VA),PJM,PJM
+1205,City of Sallisaw - (OK),SPP,SWPP
+1206,Salmon River Electric Coop Inc,IPCO,IPCO
+1207,Salt River Project,SRP,SRP
+1208,Salt River Electric Coop Corp,LGEE,LGEE
+1209,"San Luis Valley R E C, Inc",PSCO,PSCO
+1210,City of San Antonio - (TX),Ercot,ERCO
+1211,"Santee Electric Coop, Inc",SC,SC
+1212,Access Energy Coop,MISO,MISO
+1213,City & County of San Francisco,CAISO,CAIS
+1214,Sam Houston Electric Coop Inc,MISO,MISO
+1215,"San Isabel Electric Assn, Inc",PSCO,PSCO
+1216,"San Miguel Power Assn, Inc",WACM,WACM
+1217,San Patricio Electric Coop Inc,Ercot,ERCO
+1218,City of Sanborn - (IA),MISO,MISO
+1219,Sand Mountain Electric Coop,TVA,TVA
+1220,"San Bernard Electric Coop, Inc",Ercot,ERCO
+1221,Sangre De Cristo Elec Assn Inc,WACM,WACM
+1222,City of Santa Clara - (CA),CAISO,CAIS
+1223,Satilla Rural Elec Member Corporation,SOCO,SOCO
+1224,City of Sauk Centre - (MN),MISO,MISO
+1225,Scenic Rivers Energy Coop,MISO,MISO
+1226,Three Rivers Electric Coop,MISO,MISO
+1227,"Sheridan Electric Coop, Inc",MISO,MISO
+1228,City of Schuyler - (NE),SPP,SWPP
+1229,SEMO Electric Cooperative,AECI,AECI
+1230,City of Scottsboro,TVA,TVA
+1231,City of Scottsburg - (IN),MISO,MISO
+1232,SE-MA-NO Electric Coop,AECI,AECI
+1233,City of Seaford- (DE),PJM,PJM
+1234,"Heartland Rural Elec Coop, Inc",SPP,SWPP
+1235,Sawnee Electric Membership Corporation,SOCO,SOCO
+1236,City of Seattle - (WA),SCL,SCL
+1237,City of Seguin - (TX),Ercot,ERCO
+1238,Sedgwick County El Coop Assn Inc,SPP,SWPP
+1239,City of Seneca - (SC),DUK,DUK
+1240,City of Seneca - (KS),SPP,SWPP
+1241,Sequachee Valley Electric Coop,TVA,TVA
+1242,City of Sergeant Bluff - (IA),SPP,SWPP
+1243,Sevier County Electric System,TVA,TVA
+1244,City of Seward - (NE),SPP,SWPP
+1245,City of Seward - (AK),NOT_AVAIL,NOT_AVAIL
+1246,Shakopee Public Utilities Comm,MISO,MISO
+1247,Shawano Municipal Utilities,MISO,MISO
+1248,City of Sheboygan Falls - (WI),MISO,MISO
+1249,Sheffield Utilities,TVA,TVA
+1250,City of Shelby - (NC),DUK,DUK
+1251,RushShelby Energy,MISO,MISO
+1252,"Shelby Electric Coop, Inc",MISO,MISO
+1253,City of Shelby - (OH),PJM,PJM
+1254,"Shelby Energy Co-op, Inc",PJM,PJM
+1255,City of Shelbyville - (TN),TVA,TVA
+1256,Shenandoah Valley Elec Coop,PJM,PJM
+1257,Town of Shrewsbury - (MA),ISONE,ISNE
+1258,City of Sibley - (IA),MISO,MISO
+1259,City of Sidney - (NE),SPP,SWPP
+1260,City of Sikeston - (MO),SPA,SPA
+1261,City of Siloam Springs - (AR),SPP,SWPP
+1262,Singing River Elec Cooperative,MISO,MISO
+1263,North West Rural Electric Coop,SPP,SWPP
+1264,Slope Electric Coop Inc,MISO,MISO
+1265,City of Sioux Center,SPP,SWPP
+1266,City of Sioux Falls - (SD),MISO,MISO
+1267,Sioux Valley SW Elec Coop,MISO,MISO
+1268,City & Borough of Sitka - (AK),NOT_AVAIL,NOT_AVAIL
+1269,PUD No 1 of Skamania Co,BPA,BPAT
+1270,Slash Pine Elec Member Corp,SOCO,SOCO
+1271,Sleepy Eye Public Utility Comm,MISO,MISO
+1272,Slinger Utilities,MISO,MISO
+1273,Town of Smithfield - (NC),CPLE,CPLE
+1274,City of Smithville - (TN),TVA,TVA
+1275,Town of Smyrna - (DE),PJM,PJM
+1276,PUD 1 of Snohomish County,BPA,BPAT
+1277,"Socorro Electric Coop, Inc",PNM,PNM
+1278,Village of Solvay - (NY),NYISO,NYIS
+1279,"South Alabama Elec Coop, Inc",SOCO,SOCO
+1280,"South Central Ark El Coop, Inc",MISO,MISO
+1281,South Carolina Public Service Authority,SC,SC
+1282,South Central Public Pwr Dist,SPP,SWPP
+1283,South Central Electric Assn,MISO,MISO
+1284,Town of South Hadley - (MA),ISONE,ISNE
+1285,South Plains Electric Coop Inc,SPP,SWPP
+1286,City of South Haven - (MI),MISO,MISO
+1287,South Kentucky Rural E C C,MISO,MISO
+1288,South Louisiana Elec Coop Assn,MISO,MISO
+1289,City of South Norwalk - (CT),ISONE,ISNE
+1290,South River Elec Member Corp,CPLE,CPLE
+1291,City of South Sioux City,SPP,SWPP
+1292,"Southeastern IL Elec Coop, Inc",MISO,MISO
+1293,Southeast Colorado Power Assn,WACM,WACM
+1294,Southeastern Indiana R E M C,MISO,MISO
+1295,Southeastern Electric Coop Inc - (OK),SPA,SPA
+1296,Southern Illinois Elec Coop,MISO,MISO
+1297,Southern Maryland Elec Coop Inc,PJM,PJM
+1298,Southern Public Power District,SPP,SWPP
+1299,"Southern Iowa Elec Coop, Inc",MISO,MISO
+1300,"Southern Pine Elec Coop, Inc",SOCO,SOCO
+1301,Southern Pine Elec Power Assn,MISO,MISO
+1302,Southwest Arkansas E C C,SPP,SWPP
+1303,Southwest Rural Elec Assn Inc,Ercot,ERCO
+1304,Southwest Mississippi E P A,MISO,MISO
+1305,Southwest Louisiana E M C,MISO,MISO
+1306,Southwest Public Power Dist,SPP,SWPP
+1307,"Southwest Texas Elec Coop, Inc",Ercot,ERCO
+1308,Southwest Tennessee E M C,TVA,TVA
+1309,Southwestern Electric Coop Inc - (IL),MISO,MISO
+1310,Southwestern Electric Coop Inc - (NM),PNM,PNM
+1311,Spanish Fork City Corporation,PACE,PACE
+1312,City of Sparta,TVA,TVA
+1313,City of Spencer - (IA),MISO,MISO
+1314,"Springer Electric Coop, Inc",PNM,PNM
+1315,City of Springfield - (IL),MISO,MISO
+1316,City of Springfield - (TN),TVA,TVA
+1317,Snapping Shoals El Member Corp,SOCO,SOCO
+1318,City Utilities of Springfield - (MO),SPP,SWPP
+1319,City of Springfield - (OR),BPA,BPAT
+1320,City of Springville - (UT),PACE,PACE
+1321,City of St Charles - (IL),PJM,PJM
+1322,St Croix Electric Coop,MISO,MISO
+1323,City of St George,PACE,PACE
+1324,City of St James - (MN),MISO,MISO
+1325,City of St Marys - (OH),PJM,PJM
+1326,City of Shasta Lake - (CA),CAISO,CAIS
+1327,City of St Paul - (NE),SPP,SWPP
+1328,City of Saint Peter,MISO,MISO
+1329,Stanton County Public Pwr Dist,SPP,SWPP
+1330,City of Staples- (MN),MISO,MISO
+1331,City of Starke - (FL),FPL,FPL
+1332,City of Starkville,TVA,TVA
+1333,Stearns Cooperative Elec Assn,MISO,MISO
+1334,City of Statesville - (NC),DUK,DUK
+1335,Steele-Waseca Cooperative Electric,MISO,MISO
+1336,Town of Steilacoom,BPA,BPAT
+1337,South Central Power Company,PJM,PJM
+1338,Town of Sterling - (MA),ISONE,ISNE
+1339,Steuben County Rural E M C,MISO,MISO
+1340,"Steuben Rural Elec Coop, Inc",NYISO,NYIS
+1341,Stillwater Utilities Authority,SPP,SWPP
+1342,City of Stilwell - (OK),SPP,SWPP
+1343,City of Story City - (IA),MISO,MISO
+1344,City of Stoughton - (WI),MISO,MISO
+1345,"Swisher Electric Coop, Inc",SPP,SWPP
+1346,Tallapoosa River Elec Coop Inc,SOCO,SOCO
+1347,Strawberry Electric Serv Dist,PACE,PACE
+1348,City of Sturgeon Bay - (WI),MISO,MISO
+1349,City of Sturgis,MISO,MISO
+1350,Surprise Valley Electrification,BPA,BPAT
+1351,City of Sullivan - (MO),AECI,AECI
+1352,Sulphur Springs Valley E C Inc,WALC,WALC
+1353,"Sumter Electric Coop, Inc",FPC,FPC
+1354,Sumter Electric Member Corp,SOCO,SOCO
+1355,Sun Prairie Utilities,MISO,MISO
+1356,"Sumner-Cowley Elec Coop, Inc",SPP,SWPP
+1357,City of Superior - (NE),SPP,SWPP
+1358,Surry-Yadkin Elec Member Corp,DUK,DUK
+1359,Suwannee Valley Elec Coop Inc,SEC,SEC
+1360,Village of Swanton - (VT),ISONE,ISNE
+1361,Taylor Electric Coop - (WI),MISO,MISO
+1362,City of Sweetwater,TVA,TVA
+1363,Sylacauga Utilities Board,SOCO,SOCO
+1364,City of Sylvania - (GA),SOCO,SOCO
+1365,"Sun River Electric Coop, Inc",NWMT,NWMT
+1366,City of Syracuse - (NE),SPP,SWPP
+1367,City of Tacoma - (WA),PSEI,PSEI
+1368,Tahlequah Public Works Authority,SPP,SWPP
+1369,City of Tallahassee - (FL),TAL,TAL
+1370,T I P Rural Electric Coop,MISO,MISO
+1371,Tallahatchie Valley E P A,MISO,MISO
+1372,Tanner Electric Coop,PSEI,PSEI
+1373,"Talquin Electric Coop, Inc",TAL,TAL
+1374,Town of Tarboro - (NC),PJM,PJM
+1375,City of Tarrant,SOCO,SOCO
+1376,City of Taunton,ISONE,ISNE
+1377,Taylor County Rural E C C,PJM,PJM
+1378,Three Notch Elec Member Corp,SOCO,SOCO
+1379,City of Tecumseh,SPP,SWPP
+1380,City of Tell City - (IN),MISO,MISO
+1381,Tennessee Valley Authority,MISO,MISO
+1382,Tennessee Valley Electric Coop,TVA,TVA
+1383,City of Thief River Falls,MISO,MISO
+1384,City of Thomaston - (GA),SOCO,SOCO
+1385,City of Thomasville - (GA),SOCO,SOCO
+1386,Thumb Electric Coop of Mich,MISO,MISO
+1387,Tillamook Peoples Utility Dist,PACW,PACW
+1388,Tipmont Rural Elec Member Corp,MISO,MISO
+1389,City of Tipp City - (OH),PJM,PJM
+1390,Tipton Municipal Electric Util,MISO,MISO
+1391,Tippah Electric Power Assn,TVA,TVA
+1392,City of Tipton - (IA),MISO,MISO
+1393,Tishomingo County E P A,TVA,TVA
+1394,Tri-County Elec Member Corp,CPLE,CPLE
+1395,Twin County Electric Pwr Assn,MISO,MISO
+1396,Twin Valley Electric Coop Inc,SPP,SWPP
+1397,Trinity Valley Elec Coop Inc,Ercot,ERCO
+1398,Tombigbee Electric Power Assn,TVA,TVA
+1399,Tongue River Electric Coop Inc,WAUW,WAUW
+1400,"Tombigbee Electric Coop, Inc",SOCO,SOCO
+1401,City of Torrington - (WY),WACM,WACM
+1402,"Traverse Electric Coop, Inc",MISO,MISO
+1403,Tideland Electric Member Corp,PJM,PJM
+1404,City of Traverse City - (MI),MISO,MISO
+1405,City of Trenton - (TN),TVA,TVA
+1406,Trenton Municipal Utilities - (MO),AECI,AECI
+1407,Tri-State Electric Member Corp,TVA,TVA
+1408,Powder River Energy Corp,PACE,PACE
+1409,MiEnergy Cooperative,MISO,MISO
+1410,Tri-County Electric Coop Assn,MISO,MISO
+1411,Trico Electric Cooperative Inc,WALC,WALC
+1412,Diverse Power Incorporated,SOCO,SOCO
+1413,City of Troy - (AL),SOCO,SOCO
+1414,Truckee Donner P U D,NEVP,NEVP
+1415,Tullahoma Board-Public Utils,TVA,TVA
+1416,City of Tupelo - (MS),TVA,TVA
+1417,Turlock Irrigation District,TIDC,TIDC
+1418,Southeastern Electric Coop Inc - (SD),MISO,MISO
+1419,City of Tuscumbia,TVA,TVA
+1420,City of Tuskegee,SOCO,SOCO
+1421,Two Rivers Water & Light,MISO,MISO
+1422,Umatilla Electric Coop Assn,PACW,PACW
+1423,"TXU Energy Retail Co, LLC",Ercot,ERCO
+1424,Tri-County Electric Coop,MISO,MISO
+1425,City of Ukiah - (CA),CAISO,CAIS
+1426,City of Union City,TVA,TVA
+1427,City of Union - (SC),DUK,DUK
+1428,Union Electric Membership Corp - (NC),DUK,DUK
+1429,Western Iowa Power Coop,SPP,SWPP
+1430,"Southern Indiana R E C, Inc",MISO,MISO
+1431,City of Unalaska - (AK),NOT_AVAIL,NOT_AVAIL
+1432,United Electric Coop Service Inc - (TX),Ercot,ERCO
+1433,Union County Electric Coop Inc,MISO,MISO
+1434,"United Power, Inc",PSCO,PSCO
+1435,"Union Rural Electric Coop, Inc",PJM,PJM
+1436,"United Electric Co-op, Inc - (ID)",IPCO,IPCO
+1437,Homer Electric Assn Inc,NOT_AVAIL,NOT_AVAIL
+1438,Upper Cumberland E M C,TVA,TVA
+1439,Upshur Rural Elec Coop Corp,SPP,SWPP
+1440,Upson Elec Member Corp,SOCO,SOCO
+1441,USBIA-Mission Valley Power,NWMT,NWMT
+1442,USBIA-San Carlos Project,AZPS,AZPS
+1443,Utilities Dist-Western IN REMC,MISO,MISO
+1444,City of Valley City,SPP,SWPP
+1445,Vera Irrigation District #15,AVA,AVA
+1446,Verdigris Valley Elec Coop Inc,SPP,SWPP
+1447,City of Vermillion - (SD),MISO,MISO
+1448,Verendrye Electric Coop Inc,MISO,MISO
+1449,"Vermont Electric Cooperative, Inc",ISONE,ISNE
+1450,City of Vernon,CAISO,CAIS
+1451,City of Vero Beach - (FL),FPL,FPL
+1452,"Victoria Electric Coop, Inc",Ercot,ERCO
+1453,Vernon Electric Coop,MISO,MISO
+1454,Victory Electric Coop Assn Inc,SPP,SWPP
+1455,"Valley Electric Assn, Inc",NEVP,NEVP
+1456,City of Vineland - (NJ),PJM,PJM
+1457,City of Vinton - (IA),MISO,MISO
+1458,Virginia Tech Electric Service,PJM,PJM
+1459,City of Virginia - (MN),MISO,MISO
+1460,City of Volga - (SD),MISO,MISO
+1461,Volunteer Electric Coop,TVA,TVA
+1462,City of Wadena - (MN),MISO,MISO
+1463,City of Wadsworth - (OH),PJM,PJM
+1464,City of Wahoo - (NE),SPP,SWPP
+1465,Town of Wake Forest - (NC),CPLE,CPLE
+1466,Town of Wakefield - (MA),ISONE,ISNE
+1467,City of Wakefield - (NE),SPP,SWPP
+1468,Wake Electric Membership Corp,CPLE,CPLE
+1469,Town of Wallingford - (CT),ISONE,ISNE
+1470,Walton Electric Member Corp,SOCO,SOCO
+1471,City of Wamego - (KS),SPP,SWPP
+1472,City of Wapakoneta - (OH),PJM,PJM
+1473,Warren Rural Elec Coop Corp,MISO,MISO
+1474,City of Warroad,MISO,MISO
+1475,City of Washington - (UT),PACE,PACE
+1476,City of Waseca - (MN),MISO,MISO
+1477,"Wasco Electric Coop, Inc",BPA,BPAT
+1478,City of Washington - (IN),MISO,MISO
+1479,City of Washington - (GA),SOCO,SOCO
+1480,City of Washington - (NC),PJM,PJM
+1481,Washington Elec Member Corp,SOCO,SOCO
+1482,Washington Electric Coop - (OH),PJM,PJM
+1483,Washington Electric Coop - (VT),ISONE,ISNE
+1484,Wagoner Public Works Authority,SPP,SWPP
+1485,City of Water Valley - (MS),TVA,TVA
+1486,Waterloo Light & Water Comm,MISO,MISO
+1487,Watertown Municipal Utilities,MISO,MISO
+1488,Village of Waunakee - (WI),MISO,MISO
+1489,Waupun Utilities,MISO,MISO
+1490,Waverly Municipal Elec Utility,MISO,MISO
+1491,Whitewater Valley Rural EMC,MISO,MISO
+1492,City of Wayne,SPP,SWPP
+1493,Wayne-White Counties Elec Coop,MISO,MISO
+1494,Weakley County Mun Elec Sys,TVA,TVA
+1495,Weatherford Mun Utility System,Ercot,ERCO
+1496,City of Webster City - (IA),MISO,MISO
+1497,Town of Wellesley - (MA),ISONE,ISNE
+1498,City of Wellington - (KS),SPP,SWPP
+1499,Webster Electric Coop,SPP,SWPP
+1500,Wells Rural Electric Co,NEVP,NEVP
+1501,West Central Electric Coop Inc - (MO),AECI,AECI
+1502,West Central Electric Coop Inc - (SD),SPP,SWPP
+1503,"West Florida El Coop Assn, Inc",SOCO,SOCO
+1504,West Kentucky Rural E C C,TVA,TVA
+1505,City of West Liberty - (IA),MISO,MISO
+1506,City of West Memphis - (AR),MISO,MISO
+1507,City of West Plains - (MO),SPA,SPA
+1508,City of West Point - (MS),TVA,TVA
+1509,City of West Point - (NE),SPP,SWPP
+1510,West River Electric Assn Inc,SPP,SWPP
+1511,Mountrail-Williams Elec Coop,SPP,SWPP
+1512,Whetstone Valley Elec Coop Inc,MISO,MISO
+1513,City of Westby,MISO,MISO
+1514,Twin Valleys Public Power Dist,SPP,SWPP
+1515,"Wharton County Elec Coop, Inc",Ercot,ERCO
+1516,Western Coop Electric Assn Inc,SPP,SWPP
+1517,City of Westerville - (OH),PJM,PJM
+1518,City of Westfield - (MA),ISONE,ISNE
+1519,Wheat Belt Public Power Dist,SPP,SWPP
+1520,"Wheatland Electric Coop, Inc",SPP,SWPP
+1521,White River Valley El Coop Inc,SPP,SWPP
+1522,"White River Electric Assn, Inc",PACE,PACE
+1523,Whitehall Electric Utility,MISO,MISO
+1524,Northeastern Rural E M C,PJM,PJM
+1525,"Wild Rice Electric Coop, Inc",MISO,MISO
+1526,Willmar Municipal Utilities,MISO,MISO
+1527,City of Wilson,CPLE,CPLE
+1528,City of Wilton,MISO,MISO
+1529,City of Winchester - (TN),TVA,TVA
+1530,City of Windom,MISO,MISO
+1531,City of Winfield - (KS),SPP,SWPP
+1532,Winner Municipal Utility,SPP,SWPP
+1533,Village of Winnetka - (IL),PJM,PJM
+1534,City of Winterset - (IA),MISO,MISO
+1535,City of Winthrop - (MN),MISO,MISO
+1536,"Wiregrass Electric Coop, Inc",SOCO,SOCO
+1537,Wisconsin Rapids W W & L Comm,MISO,MISO
+1538,Withlacoochee River Elec Coop,SEC,SEC
+1539,Town of Wolfeboro - (NH),ISONE,ISNE
+1540,"Wood County Electric Coop, Inc",Ercot,ERCO
+1541,Wise Electric Coop Inc,Ercot,ERCO
+1542,Woodbury County Rural E C A,SPP,SWPP
+1543,Woodruff Electric Coop Corp,MISO,MISO
+1544,Wright-Hennepin Coop Elec Assn,MISO,MISO
+1545,Yellowstone Valley Elec Co-op,NWMT,NWMT
+1546,York Electric Coop Inc,DUK,DUK
+1547,City of Worthington - (MN),MISO,MISO
+1548,City of Wrangell - (AK),NOT_AVAIL,NOT_AVAIL
+1549,Wyandotte Municipal Serv Comm,MISO,MISO
+1550,Y-W Electric Assn Inc,WACM,WACM
+1551,Wyrulec Company,WACM,WACM
+1552,Yampa Valley Electric Assn Inc,PSCO,PSCO
+1553,Public Serv Comm of Yazoo City,MISO,MISO
+1554,Village of Yellow Springs - (OH),PJM,PJM
+1555,Perennial Public Power Dist,SPP,SWPP
+1556,Yazoo Valley Elec Power Assn,MISO,MISO
+1557,City of Zeeland - (MI),MISO,MISO
+1558,"Southside Electric Coop, Inc",PJM,PJM
+1559,"Fergus Electric Coop, Inc",WAUW,WAUW
+1560,City of Laurens - (SC),DUK,DUK
+1561,"Mohave Electric Cooperative, I",WALC,WALC
+1562,"Washington-St Tammany E C, Inc",MISO,MISO
+1563,EnergyUnited Elec Member Corp,DUK,DUK
+1564,"United Electric Coop, Inc - (MO)",SPP,SWPP
+1565,Roosevelt County Elec Coop Inc,SPP,SWPP
+1566,Raft Rural Elec Coop Inc,PACE,PACE
+1567,Delta Electric Power Assn,MISO,MISO
+1568,Clark County Rural E M C - (IN),MISO,MISO
+1569,"Sierra Electric Coop, Inc",PNM,PNM
+1570,"Vigilante Electric Coop, Inc",NWMT,NWMT
+1571,Bluestem Electric Coop Inc,SPP,SWPP
+1572,City of Escanaba,MISO,MISO
+1573,Boone County Rural EMC,MISO,MISO
+1574,Brunswick Electric Member Corp,CPLE,CPLE
+1575,Cass County Elec Coop Inc,SPP,SWPP
+1576,Wellton-Mohawk Irr & Drain Dist,AZPS,AZPS
+1577,Dakota Electric Association,MISO,MISO
+1578,Western Indiana Energy REMC,MISO,MISO
+1579,Ak-Chin Electric Utility Authority,AZPS,AZPS
+1580,Little Ocmulgee El Member Corp,SOCO,SOCO
+1581,North Slope Borough Power & Light,NOT_AVAIL,NOT_AVAIL
+1582,Pella Cooperative Elec Assn,MISO,MISO
+1583,"Ravalli County Elec Coop, Inc",NWMT,NWMT
+1584,"Red Lake Electric Coop, Inc",MISO,MISO
+1585,Red River Valley Coop Pwr Assn,MISO,MISO
+1586,"High West Energy, Inc",WACM,WACM
+1587,City of Ripley - (TN),TVA,TVA
+1588,"Southwest Electric Coop, Inc",SPP,SWPP
+1589,Town of Stowe- (VT),ISONE,ISNE
+1590,Taylor Electric Coop Inc - (TX),Ercot,ERCO
+1591,Todd-Wadena Electric Coop,MISO,MISO
+1592,Carroll-White REMC,MISO,MISO
+1593,Clatskanie Peoples Util Dist,BPA,BPAT
+1594,Kerrville Public Utility Board,Ercot,ERCO
+1595,City of San Marcos - (TX),Ercot,ERCO
+1596,"Pioneer Electric Coop, Inc - (AL)",SOCO,SOCO
+1597,Electrical Dist No3 Pinal County,AZPS,AZPS
+1598,Okefenoke Rural El Member Corp,SEC,SEC
+1599,"Mid-Ohio Energy Coop, Inc",PJM,PJM
+1600,Great Lakes Energy Coop,MISO,MISO
+1601,Clarke-Washington E M C,SOCO,SOCO
+1602,"Dixie Escalante R E A, Inc",PACE,PACE
+1603,"Chickasaw Electric Coop, Inc",TVA,TVA
+1604,"Somerset Rural Elec Coop, Inc",PJM,PJM
+1605,"Ark Valley Elec Coop Assn, Inc",SPP,SWPP
+1606,Colquitt Electric Membership Corp,SOCO,SOCO
+1607,"Cordova Electric Coop, Inc",NOT_AVAIL,NOT_AVAIL
+1608,"United Electric Coop, Inc - (PA)",PJM,PJM
+1609,Adams Electric Cooperative Inc,PJM,PJM
+1610,"Bedford Rural Elec Coop, Inc",PJM,PJM
+1611,Valley Rural Electric Coop Inc,PJM,PJM
+1612,"Central Electric Coop, Inc - (PA)",PJM,PJM
+1613,Rappahannock Electric Coop,PJM,PJM
+1614,"Forked Deer Electric Coop, Inc",TVA,TVA
+1615,Claverack Rural Elec Coop Inc,PJM,PJM
+1616,Tri-County Rural Elec Coop Inc,PJM,PJM
+1617,REA Energy Coop Inc,PJM,PJM
+1618,"Northwestern Rural E C A, Inc - (PA)",PJM,PJM
+1619,Sussex Rural Electric Coop Inc,PJM,PJM
+1620,North East Mississippi EPA,MISO,MISO
+1621,Monroe County Elec Power Assn,TVA,TVA
+1622,Minnesota Valley Coop L&P Assn,MISO,MISO
+1623,Hickman-Fulton Counties RECC,MISO,MISO
+1624,City of Courtland,TVA,TVA
+1625,Emerald People's Utility Dist,BPA,BPAT
+1626,Columbia River Peoples Ut Dist,PGE,PGE
+1627,Town of Murphy - (NC),TVA,TVA
+1628,City of Grand Island - (NE),SPP,SWPP
+1629,Southwest Iowa Rural Elec Coop,MISO,MISO
+1630,City of Berea Municipal Utility,PJM,PJM
+1631,City of Moreno Valley - (CA),CAISO,CAIS
+1632,Roughrider Electric Cooperativ,MISO,MISO
+1633,Heart of Texas Electric Coop,MISO,MISO
